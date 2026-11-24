@@ -1,0 +1,57 @@
+{
+  "jobs": 10,
+  "unique_skill_groups": 243,
+  "record_variants": 408,
+  "pawn_traits": 6,
+  "by_kind": {
+    "基础动作": 32,
+    "核心技能": 35,
+    "武器技能": 124,
+    "强化能力": 52
+  },
+  "by_job": {
+    "战士": {
+      "unique_groups": 27,
+      "variants": 45
+    },
+    "弓箭手": {
+      "unique_groups": 25,
+      "variants": 42
+    },
+    "法师": {
+      "unique_groups": 27,
+      "variants": 49
+    },
+    "盗贼": {
+      "unique_groups": 27,
+      "variants": 46
+    },
+    "斗士": {
+      "unique_groups": 26,
+      "variants": 44
+    },
+    "巫师": {
+      "unique_groups": 25,
+      "variants": 44
+    },
+    "魔剑士": {
+      "unique_groups": 25,
+      "variants": 41
+    },
+    "魔弓手": {
+      "unique_groups": 27,
+      "variants": 45
+    },
+    "幻术师": {
+      "unique_groups": 26,
+      "variants": 43
+    },
+    "龙选者": {
+      "unique_groups": 8,
+      "variants": 9
+    }
+  },
+  "skipped_records": {
+    "废弃或缺失技能文本": 8
+  }
+}

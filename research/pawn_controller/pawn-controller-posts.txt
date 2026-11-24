@@ -1,0 +1,198 @@
+Title: The Pawn Controller
+
+URL Source: https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts
+
+Published Time: Mon, 25 Jul 2022 19:18:19 GMT
+
+Markdown Content:
+![Image 1](https://staticdelivery.nexusmods.com/mods/6234/images/headers/1223_1791643417.jpg)
+
+*   [Games](https://www.nexusmods.com/)
+*   [Dragon's Dogma 2](https://www.nexusmods.com/games/dragonsdogma2)
+*   [Mods](https://www.nexusmods.com/games/dragonsdogma2/mods)
+*   [Characters](https://www.nexusmods.com/games/dragonsdogma2/mods?categoryName=Characters)
+*    The Pawn Controller 
+
+*   Endorsements 
+*   Unique DLs
+
+4,522 
+*   Total DLs
+
+6,415 
+*   Total views
+
+16,243 
+*   Version
+
+2.2.0 
+
+*    Download: 
+
+4 items
+
+*   [![Image 2](https://staticdelivery.nexusmods.com/mods/6234/images/thumbnails/1223/1223-1791643134-785077186.png)](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts#)
+*   [![Image 3](https://staticdelivery.nexusmods.com/mods/6234/images/thumbnails/1223/1223-1791646604-379251279.jpg)](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts#)
+*   [![Image 4](https://staticdelivery.nexusmods.com/mods/6234/images/thumbnails/1223/1223-1791643169-1851162672.jpg)](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts#)
+*   [![Image 5](https://staticdelivery.nexusmods.com/mods/6234/images/thumbnails/1223/1223-1791643173-317102655.jpg)](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts#)
+
+## File information
+
+### Last updated
+
+16 October 2026, 8:11PM
+
+### Original upload
+
+29 October 2025, 3:47PM
+
+### Created by
+
+Evo
+
+### Virus scan
+
+Safe to use
+
+*   [Description](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=description)
+*   [Files 2](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=files)
+*   [Images 4](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=images)
+*   [Videos 0](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=videos)
+*   [Posts 65](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)
+*   [Bugs 0](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=bugs)
+*   [Logs](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=logs)
+*   [Stats](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=stats)
+
+Current section
+
+*   [**Viewing:**Posts](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts#)
+    *   [Description](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=description)
+    *   [Files 2](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=files)
+    *   [Images 4](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=images)
+    *   [Videos 0](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=videos)
+    *   [Posts 65](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)
+    *   [Bugs 0](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=bugs)
+    *   [Logs](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=logs)
+    *   [Stats](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=stats)
+
+## 65 comments
+
+1.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 6: evoe](https://avatars.nexusmods.com/59460716/100)](https://next.nexusmods.com/profile/evoe)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) Sticky
+
+12 Oct 2026, 4:33PM
+
+New update released, covers any reported issues, some other bugs found and added all requested features.
+
+Version 2.2.0:  
+- New: support for party size mods, additional pawns show in the menu automatically.  
+- New: "Allow hired pawns to level from EXP" (Options + Debug), hired pawns level up from the EXP they earn and the status screen shows their EXP  
+- New: DLC appraisal roll editor, set physical, magick, knockdown, weight and the bonus on appraised gear, kept inside the game's own roll limits for that item (pawns and Arisen gear), with Best roll and Original roll  
+- New: "No skill (empty slot)" option to clear a skill slot  
+- New: "Also use this name as the moniker", the name some menus and the party list show  
+- New: Reset and Restore core skills buttons  
+- New: Validate Pawn flags appraisal stats and bonuses a real drop can't roll  
+- Fixed: Silent, Less and Rare chatter didn't stop pawns talking  
+- Fixed: hired pawns that drowned, died or were dismissed lost their settings, they now come back when the same pawn is hired again  
+- Fixed: restoring gear now also puts back the original appraisal roll  
+- Fixed: a rare error when a pawn appeared a frame before its character finished loading
+
+Version 2.1.1:  
+- Fixed: pawns turning invisible (respawn option, loading race, and changes now run on the game thread)  
+- Fixed: gear changes now show immediately, no pause or reload needed (weapons, shields and armour)  
+- Fixed: "Show items for all vocations" filter, unticked now really filters by vocation  
+- Fixed: specialization not applying, instant revive not reviving  
+- Fixed: respawn option now revives the pawn when their death timer ends instead of losing them  
+- Fixed: infinite carry weight now also shows Light in the menu  
+- Fixed: removing skill or augment overrides puts the pawn's original skills back exactly, even after several changes, and picking one that's already in another slot never leaves duplicates  
+- Fixed: restoring original skills and augments now also clears slots that were empty to begin with  
+- Fixed: older saved originals now fill in the newer skill and augment slots  
+- New: all 6 weapon skill slots and the 7th augment slot, with an extra augment slot unlock  
+- New: core skills (vocation skills like Kite Shot), carried by presets  
+- New: "Apply skills as the upgraded variant"  
+- New: vocation rank filter for skills, with Master and DLC skills labelled  
+- New: "Keep augments when changing vocation"  
+- New: hired pawns can be set to any level, up or down  
+- New: "Remove all dropped items" (Misc > Arisen QoL + Testing)  
+- New: Validate Pawn also flags skills above the pawn's rank and special skills on mantles  
+- New: first start guide and a "How to use" section  
+- New: yellow highlight on anything changed from its default, and the original value next to every option  
+- Changed: presets now save only the options you set in the mod, Copy from does the same, Import/Export copies a whole pawn  
+- Changed: "Enable Control" renamed to "Edit this pawn"  
+- Changed: special skills can no longer be set on mantles (the game ignores them)
+
+New modify appraisal roll feature:
+
+![Image 7](https://i.postimg.cc/VsbLn6zF/DD2-Mn-FOBg7OXb.jpg)  
+2.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 8: Kiri7o](https://avatars.nexusmods.com/11866663/100)](https://next.nexusmods.com/profile/Kiri7o)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 19 Oct 2026, 8:18PM
+
+Please add a dwarven enchantment to the gear 
+3.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 9: petrified](https://avatars.nexusmods.com/1483123/100)](https://next.nexusmods.com/profile/petrified)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 19 Oct 2026, 7:09PM
+
+Thank you for this awesome mod. I have a strange occurance regarding the pawn validation. it flags the main weapon, that one specific roll is not valid. I dont use any mods, that alters items. The weapon that the validation flaggs is 100% vanilla. So is the validation sort of "please check, it might result in a shadowban" thing? 
+4.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 10: sundayn](https://avatars.nexusmods.com/249959283/100)](https://next.nexusmods.com/profile/sundayn)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 19 Oct 2026, 3:52PM
+
+Why Import No Files in character\yet  
+Help!!! 
+5.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 11: yopoboy6](https://avatars.nexusmods.com/36920915/100)](https://next.nexusmods.com/profile/yopoboy6)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 18 Oct 2026, 7:08PM
+
+I'm having a bit of a problem using this. When I try to edit my main pawn it gives her the name of a previous pawn I had in a deleted save, and I can't get her name and moniker to go back to normal.
+
+It still shows the old pawns class and level as my main pawn's "original" stuff. It happens when I switch saves as well.
+
+Is there a way to refresh the mod so it sees my current pawn and not the old one?  
+6.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 12: VerNoctus](https://avatars.nexusmods.com/16231974/100)](https://next.nexusmods.com/profile/VerNoctus)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 18 Oct 2026, 12:09AM
+
+Came here to suggest a "match main pawn level" option, only to find that the last update already included the ability to level from EXP which is even better! Nicely done.
+
+Also a bug report though, it seems that I am unable to remove overrides for the "Visual" equipment slot. I put one on my pawn just to test what it looks like, and found that setting it back to "no override" doesn't remove the item... Even restoring equipment entirely won't remove it. I can change which item is displayed but can't remove them entirely.  
+7.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 13: takato77](https://avatars.nexusmods.com/275177245/100)](https://next.nexusmods.com/profile/takato77)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 17 Oct 2026, 11:15PM
+
+This mod fixed all my issues. I really love my current pawns, but their data can no longer be searched online and only exists locally. Still, I want them to keep up with the DLC content. Thank you so much, you saved my save file. 
+8.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 14: PhantomPotatoe](https://avatars.nexusmods.com/34263440/100)](https://next.nexusmods.com/profile/PhantomPotatoe)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 17 Oct 2026, 5:57AM
+
+Magnificent work kind ser. An All-in-One Pawn is certainly a boon to our playthroughs.
+
+Say, if I use "Brine Don't Kill Pawns" type of mod, will the edited appearance and settings stay? You know... cause they technically don't get dismissed, right?  
+    1.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 15: GVll](https://avatars.nexusmods.com/2134861/100)](https://next.nexusmods.com/profile/GVll)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 17 Oct 2026, 10:20PM
+
+They work well together. 
+
+9.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 16: lunarfreyax](https://avatars.nexusmods.com/72652818/100)](https://next.nexusmods.com/profile/lunarfreyax)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 17 Oct 2026, 6:40AM
+
+please make the import preset "appearance" compatible with the character manager preset ! i try to copy some preset to this mod folder and it can't read the file ! 
+10.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 17: GVll](https://avatars.nexusmods.com/2134861/100)](https://next.nexusmods.com/profile/GVll)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 17 Oct 2026, 12:27AM
+
+Seems like appearance transfer works now, but it can't override tattoos and scars. I'm gonna try exporting from pawn with tattoos and scars that are scaled down and near invisible to see if its a "Nothing present or null so its skipped" situation where its not overwritten with blank.
+
+Edit: I think the options for scars and tattoos are not getting exported at all. The export always includes "null".
+
+Also, not sure if intentional, but appearance transfer only works within same race. (Dont know if it only works within same gender too)  
+11.   [](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)[![Image 18: MyrianneG](https://avatars.nexusmods.com/141733568/100)](https://next.nexusmods.com/profile/MyrianneG)
+
+[](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts) 16 Oct 2026, 10:04PM
+
+**"New: "Allow hired pawns to level from EXP" (Options + Debug), hired pawns level up from the EXP they earn and the status screen shows their EXP"**
+
+![Image 19](https://c.tenor.com/NNd5vlwmjmMAAAAC/tenor.gif)

@@ -1,0 +1,981 @@
+Title: Fluffy Mod Manager
+
+URL Source: https://www.nexusmods.com/site/mods/818
+
+Published Time: Wed, 01 Apr 2026 15:20:38 GMT
+
+Markdown Content:
+[Skip to content](https://www.nexusmods.com/site/mods/818#mainContent)[](https://www.nexusmods.com/ "Nexus Mods home")
+
+[![Image 2: Modding Tools](https://images.nexusmods.com/images/games/v2/2295/thumbnail.jpg)Modding Tools](https://www.nexusmods.com/games/site "Modding Tools")[_close_ Clear game filter](https://www.nexusmods.com/)
+
+ Games 
+
+*   Games
+
+*   [All games (5,602)](https://www.nexusmods.com/games)
+*   [Recently added (284)](https://www.nexusmods.com/games?sort=approved)
+
+My games
+
+Your favourited games will be displayed here
+
+[![Image 3: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Mods 
+
+![Image 4: Modding Tools](https://images.nexusmods.com/images/games/v2/2295/tile.jpg)
+
+*   Mods
+
+*   [All mods](https://www.nexusmods.com/games/site/mods)
+*   [New](https://www.nexusmods.com/games/site/mods?sort=createdAt&timeRange=7)
+*   [Trending](https://www.nexusmods.com/games/site/mods?sort=endorsements&timeRange=7)
+*   [Most endorsed](https://www.nexusmods.com/games/site/mods?sort=endorsements&timeRange=0)
+*   [Top files](https://www.nexusmods.com/site/mods/top)
+*   [Mod categories](https://www.nexusmods.com/site/mods/categories)
+
+*   Mod updates
+
+*   [Recent activity](https://www.nexusmods.com/site/mods/newrecently)
+
+###### Mods of the month
+
+Explore this month's nominated mods.
+
+[Discover](https://www.nexusmods.com/site/mods/motm)
+
+###### Vortex mod manager
+
+The elegant, powerful and open-source mod manager.
+
+[Discover Vortex](https://www.nexusmods.com/vortex)
+
+[![Image 5: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Collections 
+
+![Image 6: Modding Tools](https://images.nexusmods.com/images/games/v2/2295/tile.jpg)
+
+*   Collections
+
+*   [All collections](https://www.nexusmods.com/games/site/collections?sort=downloads)
+*   [Recently added](https://www.nexusmods.com/games/site/collections?sort=createdAt)
+*   [Most endorsed](https://www.nexusmods.com/games/site/collections?sort=endorsements)
+*   [Highest rated](https://www.nexusmods.com/games/site/collections?sort=rating)
+
+###### Collections tutorials
+
+Learn from the community with tutorials and guides.
+
+[Explore](https://modding.wiki/en/nexusmods/collections/about)
+
+###### Vortex mod manager
+
+The elegant, powerful and open-source mod manager.
+
+[Discover Vortex](https://www.nexusmods.com/vortex)
+
+[![Image 7: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Media 
+
+![Image 8: Modding Tools](https://images.nexusmods.com/images/games/v2/2295/tile.jpg)
+
+*   Images
+
+*   [Latest](https://www.nexusmods.com/games/site/images)
+*   [Trending](https://www.nexusmods.com/games/site/images?sort=rating&timeRange=14)
+*   [Most endorsed](https://www.nexusmods.com/games/site/images?sort=rating)
+
+*   Videos
+
+*   [Latest](https://www.nexusmods.com/games/site/videos)
+*   [Trending](https://www.nexusmods.com/games/site/videos?sort=rating&timeRange=14)
+*   [Most endorsed](https://www.nexusmods.com/games/site/videos?sort=rating)
+
+###### Supporter images
+
+Upgrade your account to unlock all media content.
+
+[Upgrade](https://users.nexusmods.com/account/billing/premium)
+
+[![Image 9: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Community 
+
+*   Community
+
+*   [Forums](https://forums.nexusmods.com/forum/4306-vortex-support/)
+*   [Wiki](https://wiki.nexusmods.com/index.php/Main_Page)
+*   [Support authors](https://www.patreon.com/nexusmods)
+
+*   News
+
+*   [All news](https://www.nexusmods.com/site/news)
+*   [Site news](https://www.nexusmods.com/site/news?tab=site+news)
+*   [Competitions](https://www.nexusmods.com/site/news?tab=competition)
+*   [Interviews](https://www.nexusmods.com/site/news?tab=interviews)
+
+[![Image 10: Discord](https://www.nexusmods.com/assets/images/footer/Discord.svg)](https://discord.gg/nexusmods "Join us on Discord")[![Image 11: Twitter](https://www.nexusmods.com/assets/images/footer/Twitter.svg)](https://twitter.com/nexussites "Follow us on Twitter")[![Image 12: TikTok](https://www.nexusmods.com/assets/images/footer/TikTok.svg)](https://www.tiktok.com/@nexusmodsofficial "Follow us on TikTok")[![Image 13: Twitch](https://www.nexusmods.com/assets/images/footer/Twitch.svg)](https://www.twitch.tv/nexusmodsofficial "Follow us on Twitch")[![Image 14: Youtube](https://www.nexusmods.com/assets/images/footer/Youtube.svg)](https://www.youtube.com/@NexusModsOfficial "Follow us on Youtube")[![Image 15: Instagram](https://www.nexusmods.com/assets/images/footer/Instagram.svg)](https://www.instagram.com/nexusmodsofficial "Follow us on Instagram")
+
+[![Image 16: Cyberpunk Modathon 2026](https://staticdelivery.nexusmods.com/images/News/15639_tile_1792426659.png) Competition • 20 Oct 2026 Cyberpunk Modathon 2026](https://www.nexusmods.com/news/15639 "Cyberpunk Modathon 2026")[![Image 17: Happy Birthday, Fallout: New Vegas! Grab These Mods to Celebrate](https://staticdelivery.nexusmods.com/images/News/15636_tile_1792413774.png) Feature • 19 Oct 2026 Happy Birthday, Fallout: New Vegas! Grab These Mods to Celebrate](https://www.nexusmods.com/news/15636 "Happy Birthday, Fallout: New Vegas! Grab These Mods to Celebrate")
+
+[![Image 18: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Support 
+
+*   Support
+
+*   [Help](https://help.nexusmods.com/)
+*   [Contact](https://help.nexusmods.com/article/125-contact-us)
+*   [FAQ](https://help.nexusmods.com/category/26-frequently-asked-questions)
+*   [API](https://api-docs.nexusmods.com/)
+
+*   Wiki
+
+*   [Game guides](https://wiki.nexusmods.com/index.php/Games)
+*   [Tutorial](https://wiki.nexusmods.com/index.php/Category:Tutorials)
+*   [Collections](https://modding.wiki/en/nexusmods/collections)
+*   [Tools](https://wiki.nexusmods.com/index.php/Category:Tools)
+
+*   Vortex
+
+*   [Vortex help](https://wiki.nexusmods.com/index.php/Category:Vortex)
+*   [Install Vortex](https://www.nexusmods.com/about/vortex/)
+
+###### Give feedback
+
+Share your ideas, discuss them with the community, and cast your vote on feedback provided.
+
+[Give Feedback](https://forums.nexusmods.com/forum/9063-suggestion-board/)
+
+[![Image 19: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+[Log in](https://users.nexusmods.com/auth/sign_in?redirect_url=https%3A%2F%2Fwww.nexusmods.com%2Fsite%2Fmods%2F818 "Log in to Nexus Mods")[Download App](https://next.nexusmods.com/vortex)
+
+*   [_cloud\_upload_ UPLOAD A **MOD**](https://next.nexusmods.com/games/site?uploadMod=true)
+*   [_add\_photo\_alternate_ UPLOAD AN **IMAGE**](https://www.nexusmods.com/site/images/add)
+*   [_video\_call_ ADD A **VIDEO**](https://www.nexusmods.com/site/videos/add)
+
+Notifications
+
+Mark all as read[![Image 20: Notification preferences](https://www.nexusmods.com/assets/images/icons/notifications/preferences-cog.svg)](https://www.nexusmods.com/settings/notifications)
+
+_error\_outline_
+
+Oh dear! Something has gone wrong!
+
+Try reloading the notifications.
+
+_refresh_ _notifications\_off_
+
+No unread notifications right now
+
+You're up to date
+
+[See All](https://next.nexusmods.com/notifications/all)
+
+You're up to date
+
+*   ![Image 21: Profile image](https://avatars.nexusmods.com/0/100)guest  Member    [Go premium](https://users.nexusmods.com/account/billing/premium)
+
+*   [_account\_circle_ My profile](https://www.nexusmods.com/users/0)
+*   [My mods](https://www.nexusmods.com/site/users/myaccount?tab=files)
+*   [My collections](https://www.nexusmods.com/my-collections)
+*   [My media](https://www.nexusmods.com/site/users/myaccount?tab=images)
+*   [_account\_balance\_wallet_ My wallet](https://www.nexusmods.com/modrewards#/wallet)
+
+*   [Tracking centre](https://www.nexusmods.com/site/mods/trackingcentre)
+*   [_history_ Download history](https://www.nexusmods.com/site/users/myaccount?tab=download+history)
+
+*   [Give feedback](https://forums.nexusmods.com/forum/9063-suggestion-board/)
+*   [_settings_ Account settings](https://users.nexusmods.com/)
+*   [_tune_ Site preferences](https://www.nexusmods.com/settings/preferences)
+
+*   _exit\_to\_app_ Sign out 
+
+_menu_
+
+[](https://www.nexusmods.com/ "Nexus Mods")
+
+_person_
+
+[](https://www.nexusmods.com/ "Nexus Mods")_close_ Close navigation menu
+
+*   [![Image 22: Modding Tools](https://images.nexusmods.com/images/games/v2/2295/thumbnail.jpg)Modding Tools](https://www.nexusmods.com/games/site "Modding Tools")[_close_ Clear game filter](https://www.nexusmods.com/)
+*   Games
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Games
+    *   [All games (5,602)](https://www.nexusmods.com/games)
+    *   [Recently added (284)](https://www.nexusmods.com/games?sort=approved)
+
+    *   My games
+    
+
+Your favourited games will be displayed here
+
+*   Mods
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Mods
+    *   [All mods](https://www.nexusmods.com/games/site/mods)
+    *   [New](https://www.nexusmods.com/games/site/mods?sort=createdAt&timeRange=7)
+    *   [Trending](https://www.nexusmods.com/games/site/mods?sort=endorsements&timeRange=7)
+    *   [Most endorsed](https://www.nexusmods.com/games/site/mods?sort=endorsements&timeRange=0)
+    *   [Top files](https://www.nexusmods.com/site/mods/top)
+    *   [Mod categories](https://www.nexusmods.com/site/mods/categories)
+    *   [Mods of the month](https://www.nexusmods.com/site/mods/motm)
+
+    *   Mod updates
+    *   [Recent activity](https://www.nexusmods.com/site/mods/newrecently)
+
+*   Collections
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Collections
+    *   [All collections](https://www.nexusmods.com/games/site/collections?sort=downloads)
+    *   [Recently added](https://www.nexusmods.com/games/site/collections?sort=createdAt)
+    *   [Most endorsed](https://www.nexusmods.com/games/site/collections?sort=endorsements)
+    *   [Highest rated](https://www.nexusmods.com/games/site/collections?sort=rating)
+
+*   Media
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Images
+    *   [Latest](https://www.nexusmods.com/games/site/images)
+    *   [Trending](https://www.nexusmods.com/games/site/images?sort=rating&timeRange=14)
+    *   [Most endorsed](https://www.nexusmods.com/games/site/images?sort=rating)
+
+    *   Videos
+    *   [Latest](https://www.nexusmods.com/games/site/videos)
+    *   [Trending](https://www.nexusmods.com/games/site/videos?sort=rating&timeRange=14)
+    *   [Most endorsed](https://www.nexusmods.com/games/site/videos?sort=rating)
+
+*   Community
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Community
+    *   [Forums](https://forums.nexusmods.com/forum/4306-vortex-support/)
+    *   [Wiki](https://wiki.nexusmods.com/index.php/Main_Page)
+    *   [Support authors](https://www.patreon.com/nexusmods)
+
+    *   News
+    *   [All news](https://www.nexusmods.com/site/news)
+    *   [Site news](https://www.nexusmods.com/site/news?tab=site+news)
+    *   [Competitions](https://www.nexusmods.com/site/news?tab=competition)
+    *   [Interviews](https://www.nexusmods.com/site/news?tab=interviews)
+
+[![Image 23: Discord](https://www.nexusmods.com/assets/images/footer/Discord.svg)](https://discord.gg/nexusmods "Join us on Discord")[![Image 24: Twitter](https://www.nexusmods.com/assets/images/footer/Twitter.svg)](https://twitter.com/nexussites "Follow us on Twitter")[![Image 25: TikTok](https://www.nexusmods.com/assets/images/footer/TikTok.svg)](https://www.tiktok.com/@nexusmodsofficial "Follow us on TikTok")[![Image 26: Twitch](https://www.nexusmods.com/assets/images/footer/Twitch.svg)](https://www.twitch.tv/nexusmodsofficial "Follow us on Twitch")[![Image 27: Youtube](https://www.nexusmods.com/assets/images/footer/Youtube.svg)](https://www.youtube.com/@NexusModsOfficial "Follow us on Youtube")[![Image 28: Instagram](https://www.nexusmods.com/assets/images/footer/Instagram.svg)](https://www.instagram.com/nexusmodsofficial "Follow us on Instagram")
+
+*   Support
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Support
+    *   [Help](https://help.nexusmods.com/)
+    *   [Contact](https://help.nexusmods.com/article/125-contact-us)
+    *   [Give feedback](https://forums.nexusmods.com/forum/9063-suggestion-board/)
+    *   [FAQ](https://help.nexusmods.com/category/26-frequently-asked-questions)
+    *   [API](https://api-docs.nexusmods.com/)
+
+    *   Wiki
+    *   [Game guides](https://wiki.nexusmods.com/index.php/Games)
+    *   [Tutorial](https://wiki.nexusmods.com/index.php/Category:Tutorials)
+    *   [Collections](https://modding.wiki/en/nexusmods/collections)
+    *   [Tools](https://wiki.nexusmods.com/index.php/Category:Tools)
+
+    *   Vortex
+    *   [Vortex help](https://wiki.nexusmods.com/index.php/Category:Vortex)
+    *   [Install Vortex](https://www.nexusmods.com/about/vortex/)
+
+[](https://www.nexusmods.com/ "Nexus Mods")
+
+_close_ Close navigation menu
+
+# Please log in
+
+To enjoy the benefits of Nexus Mods, please log in.
+
+[Log in](https://users.nexusmods.com/auth/sign_in?redirect_url=https%3A%2F%2Fwww.nexusmods.com%2Fsite%2Fmods%2F818)
+
+![Image 29](https://next.nexusmods.com/assets/pictograms/premium-strong/premium.svg)
+
+### Exclusive media content and more
+
+Unlock **uncapped download speeds**, **auto-install collections** and **no ads**.
+
+[Go premium _arrow\_forward_](https://next.nexusmods.com/premium)
+
+_close_ Close navigation menu
+
+Notifications
+
+Mark all as read[![Image 30: Notification preferences](https://www.nexusmods.com/assets/images/icons/notifications/preferences-cog.svg)](https://www.nexusmods.com/settings/notifications)
+
+_error\_outline_
+
+Oh dear! Something has gone wrong!
+
+Try reloading the notifications.
+
+_refresh_ _notifications\_off_
+
+No unread notifications right now
+
+You're up to date
+
+[See All](https://next.nexusmods.com/notifications/all)
+
+You're up to date
+
+*   [Games](https://www.nexusmods.com/)
+*   [Modding Tools](https://www.nexusmods.com/games/site)
+*   [Mods](https://www.nexusmods.com/games/site/mods)
+*   [Community Tools](https://www.nexusmods.com/games/site/mods?categoryName=Community+Tools)
+*   [Mod Managers](https://www.nexusmods.com/games/site/mods?categoryName=Mod+Managers)
+*    Fluffy Mod Manager 
+
+# Fluffy Mod Manager
+
+*   Endorsements [33,236](https://www.nexusmods.com/Core/Libs/Common/Widgets/ModEndorsersPopUp?gameId=2295&modId=818 "See who endorsed this mod")  
+*   Unique DLs 1,472,030  
+*   Total DLs 2,451,451  
+*   Total views 3,511,704  
+*   Version 3.084  
+
+*    Download: 
+
+26 items
+
+*   [![Image 31](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727531-1839015536.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 32](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727537-1706796303.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 33](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727542-1020062841.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 34](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727548-619174622.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 35](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727554-1895968855.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 36](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727560-120587568.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 37](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727566-2059287384.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 38](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727572-995387567.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 39](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727577-54588390.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 40](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727583-359464492.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 41](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727589-1574909462.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 42](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727596-2016579925.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 43](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727603-1767370148.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 44](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727609-1137127850.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 45](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727616-874165646.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 46](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727623-321957220.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 47](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727633-1978830650.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 48](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727641-2117655878.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 49](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727651-727330103.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 50](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727664-595303327.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 51](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727671-198873365.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 52](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727678-1627206983.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 53](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727685-1223185906.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 54](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727693-825011882.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 55](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727700-595301764.png)](https://www.nexusmods.com/site/mods/818#)
+*   [![Image 56](https://staticdelivery.nexusmods.com/mods/2295/images/thumbnails/818/818-1710727707-810627931.png)](https://www.nexusmods.com/site/mods/818#)
+
+## File information
+
+### Last updated
+
+22 September 2026, 8:00AM
+
+### Original upload
+
+18 March 2024, 2:11AM
+
+### Created by
+
+ FluffyQuack 
+
+### Uploaded by
+
+[FluffyQuack](https://www.nexusmods.com/site/users/66833491)
+
+### Virus scan
+
+ Safe to use 
+
+## Tags for this mod
+
+*   [English](https://www.nexusmods.com/games/site/mods/?tags_yes[]=1044&tag=English)
+*   [Utilities for Modders](https://www.nexusmods.com/games/site/mods/?tags_yes[]=1080&tag=Utilities+for+Modders)
+*   [Utilities for Players](https://www.nexusmods.com/games/site/mods/?tags_yes[]=1081&tag=Utilities+for+Players)
+
+[Tag this mod](https://www.nexusmods.com/Core/Libs/Common/Widgets/ModTaggingPopUp?mod_id=818&game_id=2295)
+
+*   [Description](https://www.nexusmods.com/site/mods/818?tab=description)
+*   [Files 1](https://www.nexusmods.com/site/mods/818?tab=files)
+*   [Images 26](https://www.nexusmods.com/site/mods/818?tab=images)
+*   [Videos 1](https://www.nexusmods.com/site/mods/818?tab=videos)
+*   [Posts 1,112](https://www.nexusmods.com/site/mods/818?tab=posts)
+*   [Bugs 55](https://www.nexusmods.com/site/mods/818?tab=bugs)
+*   [Logs](https://www.nexusmods.com/site/mods/818?tab=logs)
+*   [Stats](https://www.nexusmods.com/site/mods/818?tab=stats)
+
+Current section
+
+*   [**Viewing:**Description](https://www.nexusmods.com/site/mods/818#)
+    *   [Description](https://www.nexusmods.com/site/mods/818?tab=description)
+    *   [Files 1](https://www.nexusmods.com/site/mods/818?tab=files)
+    *   [Images 26](https://www.nexusmods.com/site/mods/818?tab=images)
+    *   [Videos 1](https://www.nexusmods.com/site/mods/818?tab=videos)
+    *   [Posts 1,112](https://www.nexusmods.com/site/mods/818?tab=posts)
+    *   [Bugs 55](https://www.nexusmods.com/site/mods/818?tab=bugs)
+    *   [Logs](https://www.nexusmods.com/site/mods/818?tab=logs)
+    *   [Stats](https://www.nexusmods.com/site/mods/818?tab=stats)
+
+## About this mod
+
+Mod manager that can automatically take backups of files when installing mods for games. Has support for multiple unique modding methods for RE Engine titles.
+
+*   [Share * [](https://www.nexusmods.com/site/mods/818) * [](https://www.nexusmods.com/site/mods/818) * [](https://www.nexusmods.com/site/mods/818) * [](https://www.nexusmods.com/site/mods/818) * [](https://www.nexusmods.com/site/mods/818) * [](https://www.nexusmods.com/site/mods/818) * [](https://www.nexusmods.com/site/mods/818) * [](https://www.nexusmods.com/site/mods/818)](https://www.nexusmods.com/site/mods/818)
+
+ Permissions and credits 
+
+### Credits and distribution permission
+
+*   Other user's assets All the assets in this file belong to the author, or are from free-to-use modder's resources
+*   Upload permission You are not allowed to upload this file to other sites under any circumstances
+*   Modification permission You are not allowed to modify my files, including creating bug fixes or improving on features under any circumstances
+*   Conversion permission You are not allowed to convert this file to work on other games under any circumstances
+*   Asset use permission You are not allowed to use assets from this file under any circumstances
+*   Asset use permission in mods/files that are being sold You are not allowed to use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms
+*   Asset use permission in mods/files that earn donation points You are not allowed to earn Donation Points for your mods if they use my assets
+
+### Author notes
+
+This author has not provided any additional notes regarding file permissions
+
+### File credits
+
+This author has not credited anyone else in this file
+
+### Donation Points system
+
+Please [log in](https://users.nexusmods.com/auth/sign_in?redirect_url=https%3A%2F%2Fwww.nexusmods.com%2Fsite%2Fmods%2F818) to find out whether this mod is receiving Donation Points
+
+ Changelogs 
+
+*   ### Version 3.084
+
+    *   When a mod conflict is detected, more information is now displayed about the installed, conflicting mod.
+    *   Added categories to Onimusha 5.
+    *   Made it possible to detect installs of the Japanese versions of RE1-3 on GOG.
+    *   Git-related folders are now ignored when part of mod files when installing mods.
+
+*   ### Version 3.083
+
+    *   Fixed menu appearance of mods that share dummy mod entries.
+
+*   ### Version 3.082
+
+    *   SF6: Reverted cheeky naming of Alex that I thought had been reverted but wasn't actually reverted but is reverted for realsies this time.
+    *   Fixed a bug that could prevent the mod manager from automatically detecting Steam game installs.
+    *   GOG game installs are now automatically detected.
+    *   When clicking "Refresh mod list" the mod manager will try to retain the current position and depth in the mod list menu.
+    *   Fixed various minor bugs related to having multiple mods that share directory name but are stored in different archives.
+    *   Fixed a rare crash if ZIP files were placed next to Data.pkg .
+    *   Added a crash handler that produces crash reports with a small memory dump if the mod manager crashes.
+    *   Updated mod managing support for DD2. Since DD2 uses a new RE Engine version, I believe PAK mods now only work if latest RE Framework is installed with "Alternate PAK Folder" feature turned on.
+    *   Added mod managing support for the full version of Onimusha 5 aka Onimusha Way of the Sword.
+
+*   ### Version 3.081
+
+    *   SF6: Added Yasmine as a category.
+    *   SF6: The mod manager will attempt to fix modded CMD files so they work with the latest version of the game.
+    *   The mod manager now remember if it was last run maximized or in fullscreen mode.
+    *   Various minor tweaks and improvements.
+
+*   ### Version 3.079
+
+    *   Minor tweak to checking RE Framework settings.
+    *   Made it so the current UI colour theme is automatically defined based on the colours of the current wallpaper.
+    *   Added mod managing support for Onimusha 5 aka Onimusha Way of the Sword demo.
+
+*   ### Version 3.078
+
+    *   SF6: Added Ingrid as category.
+    *   RE8: Renamed demo entry to match the naming style of the full game.
+
+*   ### Version 3.076
+
+    *   Allow mod install/uninstalls while game is running with FirstNatives installed.
+    *   Changed name of "Resident Evil Village" to "Resident Evil 8 Village" so the RE games is in the correct order in the game list.
+    *   Made it possible to type the symbol '&' when searching through mod names.
+    *   Added mod managing support for Dino Crisis 1/2, the original three RE games, and RE9 demo.
+
+*   ### Version 3.075
+
+    *   SF6: Reverted cheeky naming of Alex.
+    *   Added mod managing support for Mega Man Star Force Legacy Collection.
+    *   Improved error handling for failed mod installs/uninstalls.
+    *   Fixed a bug which could prevent the "approximate" FPS limiter from limitting the FPS while program was in focus.
+    *   You can now control the position of an addon mod in its submenu by writing a modinfo entry called "MenuPriority = 1". Higher number means it'll be higher in the list. This value defaults to 0.
+    *   Improvement to log writing that could remove some minor UI stutter.
+    *   PEAK: Logo will now be downloaded.
+    *   Fixed a bug where the mod manager could ignore files that start with "."
+    *   RE Engine games: The "pak_mods" directory no longer gets deleted when all mods are uninstalled.
+    *   RE2R/RE3R/RE7: The mod manager will now try to automatically "downgrade" textures when installing RT mods to the non-RT version.
+    *   RE9: Added "Animations" as category (!Other > Animations)
+    *   Fixed download address for RE Framework.
+    *   Added mod managing support for Nitro Express.
+
+*   ### Version 3.074
+
+    *   Add basic mod managing support for Crimson Desert.
+    *   SF6: Added Alex as category. Category=!Characters > Alex
+
+*   ### Version 3.073
+
+    *   RE9: Added "Leon's Wheels" as category. Can be forced in modinfo with this line: Category=!Characters > Leon's Wheels
+    *   RE9: Added "Sound" and "Music" as categories. Can be forced in modinfo with these lines: "!Other > Sound" " !Other > Music"
+    *   RE9: The mod manager will now automatically rename paths for loose file mods so they work with the Epic Games Store version of the game.
+    *   Changed mod install logic for "pak_mods" to work better with MH Wilds mods. Now a prefix is added so install order decides mod priority.
+
+*   ### Version 3.072
+
+    *   Fixed a bug preventing RE9 logo from being downloaded.
+    *   Added (untested) mod managing support for Monster Hunter Stories 3.
+    *   Added RE Framework download options for RE9, MH Stories 3, and Pragmata.
+    *   Increased resolution of background blur effect.
+    *   RE9: Added categories.
+    *   Added NexusMods web link for various games.
+
+*   ### Version 3.071
+
+    *   MH Wilds/Prgamata: Fixed a bug where a PAK mod would not get uninstalled correctly if you stored it as a PAK file that was installed to "pak_mods" directory.
+
+*   ### Version 3.070
+
+    *   Snowbreak: Changed install location for mods.
+    *   Added very basic mod managing support for PEAK.
+    *   Fixed a bug where clicking "Uninstall All Mods" while the game was running could result in the mod manager thinking the mods became uninstalled when they weren't.
+    *   Added support for RE Engine mods consisting of multiple PAKs.
+    *   Added support for RE Engine mods consisting of a mix of PAKs and "loose files."
+    *   Added support for installing RE Engine PAK mods to "pak_mods" directory when using newest version of RE Framework with certain new RE Engine games. There is a toggle in "Advanced Options" to force this behaviour.
+    *   RE Engine games: Mod manager will no longer warn about the game running when installing mods that don't contain any PAKs or files inside "natives" directory.
+    *   Added mod managing support for RE9.
+
+*   ### Version 3.069
+
+    *   RE8: Added mod managing support for Game Pass/Windows Store release.
+    *   Fixed PAK mod installs for Pragmata demo.
+    *   Added a check and a warning if too low of an OpenGL version is detected.
+    *   Major overhaul of OpenGL code.
+    *   Stellar Blade: Fixed a bug that could prevent CNS mods from being installed to the correct location.
+    *   Darkened the title bar.
+
+*   ### Version 3.068
+
+    *   Stellar Blade: Added logic for installing CNS mods.
+    *   Minor improvements to downloading of wallpapers and logos.
+    *   Added mod managing support for Pragmata demo.
+
+*   ### Version 3.067
+
+    *   Fixed modding support for Stellar Blade.
+    *   Tweaked modding support for UE games.
+    *   Added an error message with troubleshooting steps if an supported OpenGL API is detected.
+
+*   ### Version 3.066
+
+    *   Fixed mod support for Tekken 8 even harder. Sorry for the inconvenience!
+    *   Also changed mod install path for Stellar Blade based on a user report.
+
+*   ### Version 3.065
+
+    *   Fixed a crash when manually assigning category to a mod with a "NameAsBundle" entry.
+    *   Fixed mod install path for Tekken 8 mods.
+
+*   ### Version 3.064
+
+    *   Improved prompt when clicking on a preset that's partially installed.
+    *   Clicking the plus icon next to a submenu now lets the user install or uninstall all mods within that menu.
+    *   Changed default install location of UE5 mods to ~mods.
+    *   If a mod is detected to contain no installable files, it will be displayed differently in the mod list.
+    *   Added untested, basic mod managing support for Khazan, Spider-Man 1 and 2, God of War and Ragnarok, DmC, DMC HD Collection, FIFA 23, and Cronos.
+    *   The "Uninstall All Mods" button now always leads to a prompt.
+
+*   ### Version 3.063
+
+    *   SF6: Added C. Viper as category. Add this to modinfo.ini to force the category: category = !Characters > C. Viper
+    *   Added (untested) mod managing support for Ninja Gaiden 4, FF15, and FF16.
+
+*   ### Version 3.062
+
+    *   Added mod managing support for Silent Hill f (uses Unreal Engine 5).
+    *   Temporarily disabled support for downloading mods from fagurd.com. The site is safe, but malwarebyte was falsely flagging it as a "port scan attack."
+
+*   ### Version 3.060
+
+    *   UE4/UE5: When installing multiple mods sharing PAK filenames, the mod manager will now automatically rename the files as they're installed.
+    *   RE2R/RE3R: Fixed bug that resulted in VR DLLs always being installed when installing RE Framework.
+    *   SF6: Added Sagat as category. Add this to modinfo.ini to force the category: category = !Characters > Sagat
+
+*   ### Version 3.059
+
+    *   Fixed a bug that would prevent the 3 new buttons for "choose game" menu not being visible.
+    *   You are now prompted if you want to install or uninstall a partially-installed Mod Preset.
+
+*   ### Version 3.058
+
+    *   Fixed automatic downloading of logo and wallpaper that could sometimes fail.
+    *   Fixed a bug that prevented Mod Presets from installing if they included one file-less mod.
+    *   When typing in text, the blinking cursor now blinks.
+    *   When choosing a game, it's now possible to type in a custom search to narrow down the list.
+    *   Fix that should prevent the mod manager from only showing a black screen when run on certain AMD cards or drivers.
+    *   When choosing a game, it's now possible to show a list of the most recently-selected games.
+    *   When clicking on a partially-installed Mod Preset, the mod manager will now uninstall it rather than try to install the missing mods.
+
+*   ### Version 3.057
+
+    *   Big code rewrite that makes the mod manager capable of differentiating mods that share filename.
+    *   Mod manager should now be better at linking addons to the correct main mod when multiple mods share the same name.
+    *   Added mod managing support for Capcom Fighting Collection 1 and 2, Dark Souls Prepare To Die Edition, NieR: Automata, Onimusha 2, Stellar Blade demo, Stellar Blade, and Last of Us 2.
+    *   Parts of the interface now shifts up at shorter resolutions.
+    *   Added "DummyMod=True" as a possible entry for modinfo.ini file that indicates a mod is only used for organizing a mod menu and will be hidden if it's not shown as a link to a mod addon list.
+    *   Updated the toggle for showing category view so you can make it always or never show empty categories.
+    *   Combined "Jukebox" and "Minigames" into one button.
+    *   When automatically finding a game's install path, the default Steam install path in Linux is now checked.
+    *   Fixed a bug that could cause the mod manager to think a mod contains no files after remaking the mod info cache.
+    *   Prevent mods with no files from being installed.
+    *   Improved detection of mod preview screenshot if one is not defined in modinfo.ini.
+    *   SF6: Automatically change texture extensions during mod installs to match what the newest game version expects.
+    *   SF6: Added Elena as modding category. Add this to modinfo.ini to force the category: category = !Characters > Elena
+    *   RE0 trainer: Updated door skip to work with latest version of the game.
+    *   RE0 trainer: Temporarily disabled the outfit overrider as it needs an update to work with the game again.
+    *   Fixed a bug preventing the mod manager from automatically finding Elden Ring install path.
+    *   Fixed a crash that could happen some seconds after the mod manager started due to a bug in the code for downloading wallpapers/logos.
+
+*   ### Version 3.055
+
+    *   When installing PAK mods for Monster Hunter Wilds, the mod manager now uses the new "sub" naming scheme.
+    *   Fixed a bug where right-clicking didn't correctly back out of AddonFor mod menus.
+    *   Added a brief message that's shown if wallpaper and logo download fails.
+
+*   ### Version 3.054
+
+    *   PAK modification now isn't possible for Dragon's Dogma 2 and MH Wilds without toggling a switch in Advanced Options.
+    *   Removed FirstNatives download for MH Wilds and Dragon's Dogma 2 as it's not compatible with those games.
+    *   Fixed a bug that would make mod manager spam the message "Download interrupted" when failing to download a game logo or wallpaper.
+    *   Added mod managing support for Monster Hunter Wilds benchmark.
+    *   Made it possible to download RE Framework for Monster Hunter Wilds.
+    *   Improved installation of RE Framework.
+    *   Tweaked a few warning messages.
+    *   Added preliminary modding support for Monster Hunter Wilds.
+
+*   ### Version 3.051
+
+    *   Fixed mods with a "NameAsBundle" entry not appearing in search results if there are mods with its name in an "AddonFor" entry.
+    *   Fixed ordering of mods in submenus so that the main mod is always listed first.
+    *   Improved the way the mod manager checks if a game has been patched.
+    *   Added mod managing support for Tomb Raider IV-VI Remastered.
+    *   Fixed a bug that prevented the mod manager from automatically finding the install path for Tomb Raider I-III Remastered.
+    *   Data\log.txt now lists graphics card vendor and model for the sake of troubleshooting.
+    *   Installing an addon mod (defined as having an AddonFor entry) will no longer warn the user if its main mod is not installed. Mod creators can add a "requires=ModName" entry if they want that behaviour.
+
+*   ### Version 3.050
+
+    *   Updated UE4 modding so PAKs will be copied to the correct location when installing mods that are in an archive.
+    *   Updated UE4 modding to support copying UCAS/UTOC files alongside PAKs.
+    *   Made v-sync be on by default as the "Limit FPS" feature does not work for some people for an unknown reason.
+    *   Fixed a minor read-out-of-bounds error that could happen when parsing modinfo.ini for certain games.
+    *   Fixed a bug that could make NameAsBundle mods always appear in the Custom Search results no matter the search string.
+    *   Added mod managing support for Sekiro and Elden Ring.
+
+*   ### Version 3.049
+
+    *   Fixed a bug that could prevent GPU usage from becoming 0% when out of focus.
+    *   Fixed a bug that could prevent GPU usage from becoming 0% when nothing was animating.
+    *   Fixed a bug that prevented the mod manager from automatically finding the install path for Re:Verse.
+    *   SF6: Added Mai as mod category.
+
+*   ### Version 3.048
+
+    *   Made the mod manager accept both Steam and Game Pass installs of Ninja Gaiden 2 Black.
+
+*   ### Version 3.047
+
+    *   Fixed "requirement" tag for modinfo.ini that can warn the user if a mod isn't installed.
+    *   Fixed a bug that prevented the mod manager from warning the user when installing an addon mod without its primary mod installed.
+    *   Fixed a bug that made the mod list appear empty after returning from a bundled mod menu.
+    *   Added a shortcut for re-defining game install path at Options -> Define Game Install Path.
+    *   Fixed a bug that prevent FF7 Rebirth an install path from being accepted.
+    *   Fixed a bug that could sometimes make the mod manager refuse to accept a game install path when manually selecting a game's executable.
+    *   Improved rendering of very large game logos.
+    *   Fixed black boxes being visible during minigames.
+    *   When stepping back from deeply nested "addonFor" menus, you will now step back one menu at a time.
+    *   Added mod managing support for Final Fantasy VII Rebirth (UE4) and Ninja Gaiden 2 Black (UE5).
+    *   Renamed "Final Fantasy 7 Remake" to "Final Fantasy VII Remake" in menus.
+
+*   ### Version 3.045
+
+    *   When installing mods for RE Engine games, the mod manager will now automatically temporarily rename the crash reporter executable so Capcom gets fewer crash reports related to modding.
+    *   Added mod managing support for Bayonetta.
+
+*   ### Version 3.044
+
+    *   Added mod managing support for the Monster Hunter Wilds beta.
+    *   Fixed the order of games in the "Define game info" menu.
+
+*   ### Version 3.043
+
+    *   Fixed Silent Hill 2 Remake support.
+    *   Fixed a crash when installing a mod that was stored in a folder containing a % symbol.
+    *   Added mod managing support for Silent Hill 2 Remake.
+    *   Implemented a system for automatically downloading a wallpaper and logo image for each supported game.
+
+*   ### Version 3.041
+
+    *   - SF6: Added Terry as category.
+    *   - Installing loose-file mods while a game is running is now possible for RE Engine games if RE Framework is installed with "loose file loader" option enabled.
+    *   - Added warning if user tries to install a loose-file mod for a new RE Engine game that blocks loading from "natives."
+    *   - PAK invalidation is now skipped if user installs an RE Engine mod if RE Framework is installed with "loose file loader" option enabled.
+    *   - Some Fluff has been added.
+
+*   ### Version 3.037
+
+    *   Added mod managing support for Dead Rising Deluxe Remaster, Dead Rising, Ace Attorney Investigations, Marvel vs Capcom Collection, and Castlevania Dominus Collection.
+    *   Fixed a bug that prevented mod preview screenshots from loading after one load failed.
+    *   Fixed mod managing support for Snowbreak.
+    *   Added missing name for Ace Attorney Investigations demo when selecting a game.
+    *   Made it possible to install mods that are just PAK files for Tekken 8.
+    *   When prompting the mod manager to delete a Tekken 8 mod, it will now delete the UCAS and UTOC files.
+    *   Added mod managing support for Black Myth: Wukong.
+    *   Added "requirement" as an optional entry for modinfo.ini to define a mod as a requirement. Works similar to "addonFor" but without the menu changes.
+    *   Fixed Ace Attorney Investigations demo entry as it wasn't using RE Engine after all, it's Unity!
+    *   Added mod managing support for the following games: Tekken 8, Snowbreak: Containment Zone, Fight Angel Special Edition, Ace Attorney Investigations demo
+    *   Fixed rendering of a small button on menu buttons during smooth scrolling
+
+*   ### Version 3.033
+
+    *   Added mod managing support for full version of Kunitsu-Gami: Path of the Goddess.
+    *   Added mod managing support for Action Taimanin.
+    *   When selecting game, there's now a reminder to choose "Show or hide games" if user can't find a game.
+    *   Fixed some menus that wouldn't trigger a sub-menu (like choosing game for "define game info").
+    *   Made the "choose game" menu wider so all game titles are fully visible.
+    *   Added mod managing support for Kunitsu-Gami: Path of the Goddess demo.
+    *   Added smooth scrolling to menus when dragging the scroll bar with the mouse.
+
+*   ### Version 3.031
+
+    *   SF6: Fixed name used for Akuma category in modinfo.ini files.
+    *   SF6: Added M. Bison as character category. Add this to a mod's modinfo.ini to force the category: category = !Characters > M. Bison
+    *   Updated the code that parses category tags to make the '.' optional. Ie, you can write M. Bison as M Bison instead.
+    *   Fixed a bug that could make it impossible to delete RE Engine PAK mods from the mod manager UI.
+    *   Code optimization that drastically speeds up the reading game archives operation if there are hundreds of thousands of files in the game directory.
+
+*   ### Version 3.030
+
+    *   Added Akuma as category for Street Fighter 6. Add this to a mod's modinfo.ini to force the category: category = !Characters > Akuma
+    *   Added a black background for the status messages.
+    *   Made the menu button tooltips animate into/out of view.
+    *   For menu buttons that represents a value within a certain range, it's now possible to set it to various values with a single mouse click.
+    *   Logo for currently selected game is no longer shown during minigames.
+    *   Wallpaper now never gets shown with wallpaper option set to off.
+
+*   ### Version 3.029
+
+    *   Fixed download links to RE Framework.
+    *   Updated unrar.dll to v7.0.0.
+    *   Fixed mod managing support for the Game Pass versions of Resident Evil 2 Remake and Resident Evil 3 Remake.
+    *   Added extremely basic automatic search for Game Pass install path.
+    *   Added Ed as category for Street Fighter 6. Add this to a mod's modinfo.ini to force the category: category = !Characters > Ed
+
+ Mods using this mod (1) 
+
+Loading...
+
+ Donations 
+
+### No donations accepted
+
+ Collections containing this mod 
+
+ Troubleshooting guide:[Read through this if you encounter any problems](https://www.patreon.com/posts/68199696)  
+  
+Detailed information about the mod manager with several guides:[https://www.patreon.com/posts/36745578](https://www.patreon.com/posts/36745578)You can support me on Patreon if you find my mods and modding tools useful:[https://www.patreon.com/fluffyquack](https://www.patreon.com/fluffyquack)  
+Alternatively, you can support me on ko-fi:[https://ko-fi.com/fluffyquack](https://ko-fi.com/fluffyquack)**--- QUICK AND DIRTY GUIDE FOR ALL RE ENGINE GAMES ---**  
+
+*   [https://www.patreon.com/posts/113314784](https://www.patreon.com/posts/113314784)  
+
+  
+**--- USAGE INFORMATION FOR DRAGON'S DOGMA 2 ---**  
+  
+Usage:  
+
+*   Extract the mod manager anywhere (if you're upgrading from an old version, simply extract it over the older version).
+*   Run the mod manager once and choose Dragon's Dogma 2 as game.
+*   You can drag'n'drop mods in PAK format onto the mod manager window while it's running to copy them to the mod manager OR manually copy mods to "[modmanager]\Games\DragonsDogma2_Chara\Mods"
+*   Click on mods in the mod list to install them. Click again to uninstall.  
+
+  
+Info for mod creators:  
+
+*   Guide on how to create PAK mods for Dragon's Dogma 2:[https://www.patreon.com/posts/100042893](https://www.patreon.com/posts/100042893)
+*   Note that the modinfo.ini file is optional (and all entries within it are optional too).
+*   Mod manager will always check for a "screenshot.jpg" or "screenshot.png" to use as mod preview image even if modinfo.ini doesn't exist.
+*   You can add an "AddonFor=ModName" entry to a mod's modinfo.ini if a mod is intended as an addon for another mod and then they'll be organized as a single menu button in the mod list. Replace "ModName" with the exact name for a mod this mod's an addon for.
+*   Alternatively, you can add an entry like "NameAsBundle=NameHere" to a collection of mods to organize them into the same menu button. Replace "NameHere" with a name for the collection of mods, and make sure each mod in the collection has the exact name entry.  
+
+  
+**--- USAGE INFORMATION FOR OLDER RE ENGINE TITLES (RE7, RE8, RE2R, RE3R, RE4R, MHR, DMC5 AND A FEW OTHERS) AND UNCHARTED 4/LAST OF US PART 1 ---**  
+  
+Usage:  
+
+*   Extract the mod manager anywhere (if you're upgrading from an old version, simply extract it over the older version).
+*   Before running the mod manager for the first time, ensure all PAK files in your game install install are unmodified (to easily do this, right-click the game in Steam and choose "verify file integrity").
+*   Run the mod manager once and make sure the appropriate game is selected.
+*   You can drag'n'drop mods in RAR, 7Zip, or ZIP format onto the mod manager window while it's running to copy them to the mod manager OR manually copy mods to "[modmanager]\Games\[GameName]\Mods"
+*   Click on mods in the mod list to install them. Click again to uninstall.  
+
+  
+What to do if if the game gets gets patched when you don't have mods installed, or after installing DLC:
+*   Click on "Re-read Game Archives" in the "manage mods" menu in the mod manager.
+*   Installing and uninstalling mods should work again. Note that some mods may not be compatible with a new version of the game.  
+
+  
+What to do if the game gets patched when you have mods installed:  
+
+*   Try to uninstall a mod via the mod manager. You should get an error message about a PAK file being different.
+*   Turn on the "force uninstall" option at the top of the manage mods menu.
+*   Click on "uninstall all mods".
+*   This shouldn't be necessary, but just as a precaution, I suggest right-clicking the game in Steam and selecting "verify file integrity".
+*   Click on "re-read game archives" in the "manage mods" menu in the mod manager.
+*   Installing and uninstalling mods should work again. Note that some mods may not be compatible with a new version of the game.  
+
+  
+Info for mod creators:  
+
+*   As an example on how to package a mod, download this mod and look at its files:[https://www.nexusmods.com/streetfighter6/mods/1](https://www.nexusmods.com/streetfighter6/mods/1)
+*   Mods can be packaged into RAR, ZIP, or 7Zip archives.
+*   Note: When packaging mods as RAR and 7Zip, I highly recommend creating them as non-solid archives to ensure single-file extraction is fast. WinRAR does this by default.
+*   Note that the modinfo.ini file is optional (and all entries within it are optional too).
+*   Mod manager will always check for a "screenshot.jpg" or "screenshot.png" to use as mod preview image even if modinfo.ini doesn't exist.
+*   You can add an "AddonFor=ModName" entry to a mod's modinfo.ini if a mod is intended as an addon for another mod and then they'll be organized as a single menu button in the mod list. Replace "ModName" with the exact name for a mod this mod's an addon for.
+*   Alternatively, you can add an entry like "NameAsBundle=NameHere" to a collection of mods to organize them into the same menu button. Replace "NameHere" with a name for the collection of mods, and make sure each mod in the collection has the exact name entry.  
+
+  
+Special note regarding RE2R and RE3R:  
+
+*   Capcom updated the game to run on a new engine version with RT support, which has made most mods incompatible.
+*   You can roll back to a previous game version for old mods to work again by following these instructions:[https://store.steampowered.com/news/app/883710/view/3344500154867780165](https://store.steampowered.com/news/app/883710/view/3344500154867780165)
+*   Note: Whenever you change the game version, make sure all mods are uninstalled in the mod manager!  
+
+  
+**--- USAGE INFORMATION FOR MT FRAMEWORK GAMES (DRAGON'S DOGMA: DARK ARISEN, RE5, RE6, DMC4, AND OTHERS) ---**  
+  
+One thing to keep in mind: Not all released mods are directly compatible with the mod manager. If they're not, you need to go to the "Games\DD\Mods" directory where you installed Fluffy Manager, create a new directory, and place mod files there. The directory structure within that needs to reflect that of the game. That means within that directory there should always be a nativePC directory as that is what the game expects. If you download the "Input Text Removal" mod in the RE6 category, then you can look at that as an example of how mods should be structured.  
+  
+Visit this page for more information about the mod manager and how to use its save manager:[https://steamcommunity.com/sharedfiles/filedetails/?id=602693012](https://steamcommunity.com/sharedfiles/filedetails/?id=602693012)  
+  
+Note that the mod manager doesn't let you merge mods modifying the same ARC files, which means the last installed mod will take priority.  
+  
+**--- USAGE INFORMATION FOR UNREAL ENGINE 4 TITLES (BLOODSTAINED, TEKKEN 7, SOULCALIBUR VI AND OTHERS) ---**  
+  
+Basic usage:
+*   Start mod manager and select the game
+*   Drag'n'drop PAK files onto the mod manager window
+*   Click mods to install and uninstall them  
+
+  
+For mod authors:
+*   I suggest using this to pack your mods into PAK:[http://modderbase.com/showthread.php?tid=834](http://modderbase.com/showthread.php?tid=834)
+*   Optionally, you can include a modinfo.ini and a screenshot to the PAK file so that info is displayed inside the mod manager. Here is an example of how the files should look like:[http://www.fluffyquack.com/mods/SC6/Raph...-files.rar](http://www.fluffyquack.com/mods/SC6/RaphaelsOriginalIdle-files.rar)  
+
+![Image 57: Vortex](https://www.nexusmods.com/assets/images/footer/Vortex.svg)VORTEX
+
+The powerful open-source mod manager from Nexus Mods.
+
+Learn more
+
+### Nexus Mods
+
+*   [News](https://www.nexusmods.com/site/news)
+*   [Statistics](https://www.nexusmods.com/site/about/stats)
+*   [Careers](https://www.nexusmods.com/about/careers)
+*   [About us](https://www.nexusmods.com/about)
+*   [Premium features](https://next.nexusmods.com/premium)
+
+### Discover
+
+*   [All games](https://www.nexusmods.com/games)
+*   [All mods](https://www.nexusmods.com/games/site/mods)
+*   [New mods](https://www.nexusmods.com/games/site/mods?sort=createdAt&timeRange=1)
+*   [Popular mods](https://www.nexusmods.com/games/site/mods?sort=endorsements&timeRange=0)
+*   [Trending mods](https://www.nexusmods.com/games/site/mods?sort=endorsements&timeRange=7)
+*   [All collections](https://www.nexusmods.com/collections)
+*   [All images](https://www.nexusmods.com/games/site/images)
+
+### Support
+
+*   [Help](https://help.nexusmods.com/)
+*   [Wiki](https://wiki.nexusmods.com/index.php/Main_Page)
+*   [API](https://api-docs.nexusmods.com/)
+*   [Give feedback](https://forums.nexusmods.com/forum/9063-suggestion-board)
+*   [Report a bug](https://forums.nexusmods.com/index.php?/forum/8394-website-bug-report/)
+*   [Unban requests](https://help.nexusmods.com/article/33-what-can-i-do-if-my-account-has-been-banned)
+*   [DMCA](https://www.cognitoforms.com/NexusMods/NexusModsDMCAForm)
+*   [Manage cookie settings](https://www.nexusmods.com/site/mods/818#)
+
+### Community
+
+*   [Forums](https://forums.nexusmods.com/)
+*   [Discord](https://discord.gg/nexusmods)
+*   [Support authors](https://www.patreon.com/nexusmods)
+*   [Contact us](https://help.nexusmods.com/article/125-contact-us)
+
+### Support Nexus Mods
+
+*   [Go premium](https://users.nexusmods.com/account/billing/premium)
+
+### Network Stats
+
+*   #### Members
+
+79,613,131 
+*   #### Mods
+
+962,411 
+*   #### Kudos given
+
+4,443,017 
+*   #### Page served in
+
+0.087s v2026.1020.1042 | UK 2 
+
+[](https://www.nexusmods.com/site "Nexus Mods")
+
+[![Image 58: Discord](https://www.nexusmods.com/assets/images/footer/Discord.svg)](https://discord.gg/nexusmods "Join us on Discord")[![Image 59: Twitter](https://www.nexusmods.com/assets/images/footer/Twitter.svg)](https://twitter.com/nexussites "Follow us on Twitter")[![Image 60: TikTok](https://www.nexusmods.com/assets/images/footer/TikTok.svg)](https://www.tiktok.com/@nexusmodsofficial "Follow us on TikTok")[![Image 61: Twitch](https://www.nexusmods.com/assets/images/footer/Twitch.svg)](https://www.twitch.tv/nexusmodsofficial "Follow us on Twitch")[![Image 62: Youtube](https://www.nexusmods.com/assets/images/footer/Youtube.svg)](https://www.youtube.com/@NexusModsOfficial "Follow us on Youtube")[![Image 63: Instagram](https://www.nexusmods.com/assets/images/footer/Instagram.svg)](https://www.instagram.com/nexusmodsofficial "Follow us on Instagram")
+
+Copyright © 2026 Black Tree Gaming Ltd. All rights reserved.
+
+[Terms of Service](https://help.nexusmods.com/article/18-terms-of-service) | [Privacy Policy](https://help.nexusmods.com/article/20-privacy-policy)
+
+![Image 64: iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1477556550&iiqidtype=2&iiqpcid=eab3218f-917d-8f9b-3384-1dd9761c430a&iiqpciddate=1792493893852&tsrnd=317_1792493893856&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22155%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22155%5C%22%2C%20%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%2224%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22155.0.8059.84%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22155.0.8059.84%5C%22%2C%20%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%2224.0.0.0%5C%22%22%7D&vrref=https%3A%2F%2Fwww.nexusmods.com%2Fsite%2Fmods%2F818&gdpr_consent=undefined&us_privacy=1YNY&gpc=undefined&gdpr=0)![Image 65: iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1477556550&iiqidtype=2&iiqpcid=eab3218f-917d-8f9b-3384-1dd9761c430a&iiqpciddate=1792493893852&tsrnd=255_1792493893960&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22155%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22155%5C%22%2C%20%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%2224%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22155.0.8059.84%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22155.0.8059.84%5C%22%2C%20%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%2224.0.0.0%5C%22%22%7D&vrref=https%3A%2F%2Fwww.nexusmods.com%2Fsite%2Fmods%2F818&gdpr_consent=undefined&us_privacy=1YNY&gpc=undefined&gdpr=0)
+
+[Video 3](https://www.nexusmods.com/site/mods/818)
+
+[Video 4](https://www.nexusmods.com/site/mods/818)
+
+![Image 66](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792493896-XFTN4QKA-A6R1&halo_id=060ixfhju6a659a9e9c9b66666666666666uooswi0e0y6e6m6i6g000000000000)![Image 67](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792493896-XFTN4QKA-A6R1)![Image 68](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001792493896-XFTN4QKA-A6R1&adnxs_id=$UID&gdpr=0)![Image 69](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001792493896-XFTN4QKA-A6R1%26auid%3DAU1D-0100-001792493896-XFTN4QKA-A6R1&gdpr=0)![Image 70](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001792493896-XFTN4QKA-A6R1&gdpr=0)![Image 71](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001792493896-XFTN4QKA-A6R1&gdpr=0)![Image 72](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001792493896-XFTN4QKA-A6R1&gdpr=0)![Image 73](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001792493896-XFTN4QKA-A6R1&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001792493896-XFTN4QKA-A6R1%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 74](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MjQ5Mzg5Ni1YRlRONFFLQS1BNlIx&id=AU1D-0100-001792493896-XFTN4QKA-A6R1&gdpr=0)![Image 75](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001792493896-XFTN4QKA-A6R1)![Image 76](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001792493896-XFTN4QKA-A6R1&uid=[UID]&gdpr=0)![Image 77](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001792493896-XFTN4QKA-A6R1%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)

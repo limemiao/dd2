@@ -1,0 +1,748 @@
+Title: The Pawn Controller
+
+URL Source: https://www.nexusmods.com/dragonsdogma2/mods/1223
+
+Published Time: Mon, 25 Jul 2022 19:18:19 GMT
+
+Markdown Content:
+[Skip to content](https://www.nexusmods.com/dragonsdogma2/mods/1223#mainContent)[](https://www.nexusmods.com/ "Nexus Mods home")
+
+[![Image 2: Dragon's Dogma 2](https://images.nexusmods.com/images/games/v2/6234/thumbnail.jpg)Dragon's Dogma 2](https://www.nexusmods.com/games/dragonsdogma2 "Dragon's Dogma 2")[_close_ Clear game filter](https://www.nexusmods.com/)
+
+ Games 
+
+*   Games
+
+*   [All games (5,602)](https://www.nexusmods.com/games)
+*   [Recently added (284)](https://www.nexusmods.com/games?sort=approved)
+
+My games
+
+Your favourited games will be displayed here
+
+[![Image 3: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Mods 
+
+![Image 4: Dragon's Dogma 2](https://images.nexusmods.com/images/games/v2/6234/tile.jpg)
+
+*   Mods
+
+*   [All mods](https://www.nexusmods.com/games/dragonsdogma2/mods)
+*   [New](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=createdAt&timeRange=7)
+*   [Trending](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=endorsements&timeRange=7)
+*   [Most endorsed](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=endorsements&timeRange=0)
+*   [Top files](https://www.nexusmods.com/dragonsdogma2/mods/top)
+*   [Mod categories](https://www.nexusmods.com/dragonsdogma2/mods/categories)
+
+*   Mod updates
+
+*   [Recent activity](https://www.nexusmods.com/dragonsdogma2/mods/newrecently)
+
+###### Mods of the month
+
+Explore this month's nominated mods.
+
+[Discover](https://www.nexusmods.com/dragonsdogma2/mods/motm)
+
+###### Vortex mod manager
+
+The elegant, powerful and open-source mod manager.
+
+[Discover Vortex](https://www.nexusmods.com/vortex)
+
+[![Image 5: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Collections 
+
+![Image 6: Dragon's Dogma 2](https://images.nexusmods.com/images/games/v2/6234/tile.jpg)
+
+*   Collections
+
+*   [All collections](https://www.nexusmods.com/games/dragonsdogma2/collections?sort=downloads)
+*   [Recently added](https://www.nexusmods.com/games/dragonsdogma2/collections?sort=createdAt)
+*   [Most endorsed](https://www.nexusmods.com/games/dragonsdogma2/collections?sort=endorsements)
+*   [Highest rated](https://www.nexusmods.com/games/dragonsdogma2/collections?sort=rating)
+
+###### Collections tutorials
+
+Learn from the community with tutorials and guides.
+
+[Explore](https://modding.wiki/en/nexusmods/collections/about)
+
+###### Vortex mod manager
+
+The elegant, powerful and open-source mod manager.
+
+[Discover Vortex](https://www.nexusmods.com/vortex)
+
+[![Image 7: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Media 
+
+![Image 8: Dragon's Dogma 2](https://images.nexusmods.com/images/games/v2/6234/tile.jpg)
+
+*   Images
+
+*   [Latest](https://www.nexusmods.com/games/dragonsdogma2/images)
+*   [Trending](https://www.nexusmods.com/games/dragonsdogma2/images?sort=rating&timeRange=14)
+*   [Most endorsed](https://www.nexusmods.com/games/dragonsdogma2/images?sort=rating)
+
+*   Videos
+
+*   [Latest](https://www.nexusmods.com/games/dragonsdogma2/videos)
+*   [Trending](https://www.nexusmods.com/games/dragonsdogma2/videos?sort=rating&timeRange=14)
+*   [Most endorsed](https://www.nexusmods.com/games/dragonsdogma2/videos?sort=rating)
+
+###### Supporter images
+
+Upgrade your account to unlock all media content.
+
+[Upgrade](https://users.nexusmods.com/account/billing/premium)
+
+[![Image 9: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Community 
+
+*   Community
+
+*   [Forums](https://forums.nexusmods.com/forum/8406-modding-discussion)
+*   [Wiki](https://wiki.nexusmods.com/index.php/Main_Page)
+*   [Support authors](https://www.patreon.com/nexusmods)
+
+*   News
+
+*   [All news](https://www.nexusmods.com/dragonsdogma2/news)
+*   [Site news](https://www.nexusmods.com/dragonsdogma2/news?tab=site+news)
+*   [Competitions](https://www.nexusmods.com/dragonsdogma2/news?tab=competition)
+*   [Interviews](https://www.nexusmods.com/dragonsdogma2/news?tab=interviews)
+
+[![Image 10: Discord](https://www.nexusmods.com/assets/images/footer/Discord.svg)](https://discord.gg/nexusmods "Join us on Discord")[![Image 11: Twitter](https://www.nexusmods.com/assets/images/footer/Twitter.svg)](https://twitter.com/nexussites "Follow us on Twitter")[![Image 12: TikTok](https://www.nexusmods.com/assets/images/footer/TikTok.svg)](https://www.tiktok.com/@nexusmodsofficial "Follow us on TikTok")[![Image 13: Twitch](https://www.nexusmods.com/assets/images/footer/Twitch.svg)](https://www.twitch.tv/nexusmodsofficial "Follow us on Twitch")[![Image 14: Youtube](https://www.nexusmods.com/assets/images/footer/Youtube.svg)](https://www.youtube.com/@NexusModsOfficial "Follow us on Youtube")[![Image 15: Instagram](https://www.nexusmods.com/assets/images/footer/Instagram.svg)](https://www.instagram.com/nexusmodsofficial "Follow us on Instagram")
+
+[![Image 16: Cyberpunk Modathon 2026](https://staticdelivery.nexusmods.com/images/News/15639_tile_1792426659.png) Competition • 20 Oct 2026 Cyberpunk Modathon 2026](https://www.nexusmods.com/news/15639 "Cyberpunk Modathon 2026")[![Image 17: Happy Birthday, Fallout: New Vegas! Grab These Mods to Celebrate](https://staticdelivery.nexusmods.com/images/News/15636_tile_1792413774.png) Feature • 19 Oct 2026 Happy Birthday, Fallout: New Vegas! Grab These Mods to Celebrate](https://www.nexusmods.com/news/15636 "Happy Birthday, Fallout: New Vegas! Grab These Mods to Celebrate")
+
+[![Image 18: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+ Support 
+
+*   Support
+
+*   [Help](https://help.nexusmods.com/)
+*   [Contact](https://help.nexusmods.com/article/125-contact-us)
+*   [FAQ](https://help.nexusmods.com/category/26-frequently-asked-questions)
+*   [API](https://api-docs.nexusmods.com/)
+
+*   Wiki
+
+*   [Game guides](https://wiki.nexusmods.com/index.php/Games)
+*   [Tutorial](https://wiki.nexusmods.com/index.php/Category:Tutorials)
+*   [Collections](https://modding.wiki/en/nexusmods/collections)
+*   [Tools](https://wiki.nexusmods.com/index.php/Category:Tools)
+
+*   Vortex
+
+*   [Vortex help](https://wiki.nexusmods.com/index.php/Category:Vortex)
+*   [Install Vortex](https://www.nexusmods.com/about/vortex/)
+
+###### Give feedback
+
+Share your ideas, discuss them with the community, and cast your vote on feedback provided.
+
+[Give Feedback](https://forums.nexusmods.com/forum/9063-suggestion-board/)
+
+[![Image 19: Skyrim 15th Anniversary: Join the modathon](https://www.nexusmods.com/assets/images/skyrim-15th-anniversary-banner/skyrim-15th-anniversary-banner.webp)](https://next.nexusmods.com/featured/skyrim-modathon)
+
+[Log in](https://users.nexusmods.com/auth/sign_in?redirect_url=https%3A%2F%2Fwww.nexusmods.com%2Fdragonsdogma2%2Fmods%2F1223 "Log in to Nexus Mods")[Download App](https://next.nexusmods.com/vortex)
+
+*   [_cloud\_upload_ UPLOAD A **MOD**](https://next.nexusmods.com/games/dragonsdogma2?uploadMod=true)
+*   [_add\_photo\_alternate_ UPLOAD AN **IMAGE**](https://www.nexusmods.com/dragonsdogma2/images/add)
+*   [_video\_call_ ADD A **VIDEO**](https://www.nexusmods.com/dragonsdogma2/videos/add)
+
+Notifications
+
+Mark all as read[![Image 20: Notification preferences](https://www.nexusmods.com/assets/images/icons/notifications/preferences-cog.svg)](https://www.nexusmods.com/settings/notifications)
+
+_error\_outline_
+
+Oh dear! Something has gone wrong!
+
+Try reloading the notifications.
+
+_refresh_ _notifications\_off_
+
+No unread notifications right now
+
+You're up to date
+
+[See All](https://next.nexusmods.com/notifications/all)
+
+You're up to date
+
+*   ![Image 21: Profile image](https://avatars.nexusmods.com/0/100)guest  Member    [Go premium](https://users.nexusmods.com/account/billing/premium)
+
+*   [_account\_circle_ My profile](https://www.nexusmods.com/users/0)
+*   [My mods](https://www.nexusmods.com/dragonsdogma2/users/myaccount?tab=files)
+*   [My collections](https://www.nexusmods.com/my-collections)
+*   [My media](https://www.nexusmods.com/dragonsdogma2/users/myaccount?tab=images)
+*   [_account\_balance\_wallet_ My wallet](https://www.nexusmods.com/modrewards#/wallet)
+
+*   [Tracking centre](https://www.nexusmods.com/dragonsdogma2/mods/trackingcentre)
+*   [_history_ Download history](https://www.nexusmods.com/dragonsdogma2/users/myaccount?tab=download+history)
+
+*   [Give feedback](https://forums.nexusmods.com/forum/9063-suggestion-board/)
+*   [_settings_ Account settings](https://users.nexusmods.com/)
+*   [_tune_ Site preferences](https://www.nexusmods.com/settings/preferences)
+
+*   _exit\_to\_app_ Sign out 
+
+_menu_
+
+[](https://www.nexusmods.com/ "Nexus Mods")
+
+_person_
+
+[](https://www.nexusmods.com/ "Nexus Mods")_close_ Close navigation menu
+
+*   [![Image 22: Dragon's Dogma 2](https://images.nexusmods.com/images/games/v2/6234/thumbnail.jpg)Dragon's Dogma 2](https://www.nexusmods.com/games/dragonsdogma2 "Dragon's Dogma 2")[_close_ Clear game filter](https://www.nexusmods.com/)
+*   Games
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Games
+    *   [All games (5,602)](https://www.nexusmods.com/games)
+    *   [Recently added (284)](https://www.nexusmods.com/games?sort=approved)
+
+    *   My games
+    
+
+Your favourited games will be displayed here
+
+*   Mods
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Mods
+    *   [All mods](https://www.nexusmods.com/games/dragonsdogma2/mods)
+    *   [New](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=createdAt&timeRange=7)
+    *   [Trending](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=endorsements&timeRange=7)
+    *   [Most endorsed](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=endorsements&timeRange=0)
+    *   [Top files](https://www.nexusmods.com/dragonsdogma2/mods/top)
+    *   [Mod categories](https://www.nexusmods.com/dragonsdogma2/mods/categories)
+    *   [Mods of the month](https://www.nexusmods.com/dragonsdogma2/mods/motm)
+
+    *   Mod updates
+    *   [Recent activity](https://www.nexusmods.com/dragonsdogma2/mods/newrecently)
+
+*   Collections
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Collections
+    *   [All collections](https://www.nexusmods.com/games/dragonsdogma2/collections?sort=downloads)
+    *   [Recently added](https://www.nexusmods.com/games/dragonsdogma2/collections?sort=createdAt)
+    *   [Most endorsed](https://www.nexusmods.com/games/dragonsdogma2/collections?sort=endorsements)
+    *   [Highest rated](https://www.nexusmods.com/games/dragonsdogma2/collections?sort=rating)
+
+*   Media
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Images
+    *   [Latest](https://www.nexusmods.com/games/dragonsdogma2/images)
+    *   [Trending](https://www.nexusmods.com/games/dragonsdogma2/images?sort=rating&timeRange=14)
+    *   [Most endorsed](https://www.nexusmods.com/games/dragonsdogma2/images?sort=rating)
+
+    *   Videos
+    *   [Latest](https://www.nexusmods.com/games/dragonsdogma2/videos)
+    *   [Trending](https://www.nexusmods.com/games/dragonsdogma2/videos?sort=rating&timeRange=14)
+    *   [Most endorsed](https://www.nexusmods.com/games/dragonsdogma2/videos?sort=rating)
+
+*   Community
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Community
+    *   [Forums](https://forums.nexusmods.com/forum/8406-modding-discussion)
+    *   [Wiki](https://wiki.nexusmods.com/index.php/Main_Page)
+    *   [Support authors](https://www.patreon.com/nexusmods)
+
+    *   News
+    *   [All news](https://www.nexusmods.com/dragonsdogma2/news)
+    *   [Site news](https://www.nexusmods.com/dragonsdogma2/news?tab=site+news)
+    *   [Competitions](https://www.nexusmods.com/dragonsdogma2/news?tab=competition)
+    *   [Interviews](https://www.nexusmods.com/dragonsdogma2/news?tab=interviews)
+
+[![Image 23: Discord](https://www.nexusmods.com/assets/images/footer/Discord.svg)](https://discord.gg/nexusmods "Join us on Discord")[![Image 24: Twitter](https://www.nexusmods.com/assets/images/footer/Twitter.svg)](https://twitter.com/nexussites "Follow us on Twitter")[![Image 25: TikTok](https://www.nexusmods.com/assets/images/footer/TikTok.svg)](https://www.tiktok.com/@nexusmodsofficial "Follow us on TikTok")[![Image 26: Twitch](https://www.nexusmods.com/assets/images/footer/Twitch.svg)](https://www.twitch.tv/nexusmodsofficial "Follow us on Twitch")[![Image 27: Youtube](https://www.nexusmods.com/assets/images/footer/Youtube.svg)](https://www.youtube.com/@NexusModsOfficial "Follow us on Youtube")[![Image 28: Instagram](https://www.nexusmods.com/assets/images/footer/Instagram.svg)](https://www.instagram.com/nexusmodsofficial "Follow us on Instagram")
+
+*   Support
+
+_chevron\_right_
+
+Back _close_ Close navigation menu 
+
+    *   Support
+    *   [Help](https://help.nexusmods.com/)
+    *   [Contact](https://help.nexusmods.com/article/125-contact-us)
+    *   [Give feedback](https://forums.nexusmods.com/forum/9063-suggestion-board/)
+    *   [FAQ](https://help.nexusmods.com/category/26-frequently-asked-questions)
+    *   [API](https://api-docs.nexusmods.com/)
+
+    *   Wiki
+    *   [Game guides](https://wiki.nexusmods.com/index.php/Games)
+    *   [Tutorial](https://wiki.nexusmods.com/index.php/Category:Tutorials)
+    *   [Collections](https://modding.wiki/en/nexusmods/collections)
+    *   [Tools](https://wiki.nexusmods.com/index.php/Category:Tools)
+
+    *   Vortex
+    *   [Vortex help](https://wiki.nexusmods.com/index.php/Category:Vortex)
+    *   [Install Vortex](https://www.nexusmods.com/about/vortex/)
+
+[](https://www.nexusmods.com/ "Nexus Mods")
+
+_close_ Close navigation menu
+
+# Please log in
+
+To enjoy the benefits of Nexus Mods, please log in.
+
+[Log in](https://users.nexusmods.com/auth/sign_in?redirect_url=https%3A%2F%2Fwww.nexusmods.com%2Fdragonsdogma2%2Fmods%2F1223)
+
+![Image 29](https://next.nexusmods.com/assets/pictograms/premium-strong/premium.svg)
+
+### Exclusive media content and more
+
+Unlock **uncapped download speeds**, **auto-install collections** and **no ads**.
+
+[Go premium _arrow\_forward_](https://next.nexusmods.com/premium)
+
+_close_ Close navigation menu
+
+Notifications
+
+Mark all as read[![Image 30: Notification preferences](https://www.nexusmods.com/assets/images/icons/notifications/preferences-cog.svg)](https://www.nexusmods.com/settings/notifications)
+
+_error\_outline_
+
+Oh dear! Something has gone wrong!
+
+Try reloading the notifications.
+
+_refresh_ _notifications\_off_
+
+No unread notifications right now
+
+You're up to date
+
+[See All](https://next.nexusmods.com/notifications/all)
+
+You're up to date
+
+![Image 31](https://staticdelivery.nexusmods.com/mods/6234/images/headers/1223_1791643417.jpg)
+
+*   [Games](https://www.nexusmods.com/)
+*   [Dragon's Dogma 2](https://www.nexusmods.com/games/dragonsdogma2)
+*   [Mods](https://www.nexusmods.com/games/dragonsdogma2/mods)
+*   [Characters](https://www.nexusmods.com/games/dragonsdogma2/mods?categoryName=Characters)
+*    The Pawn Controller 
+
+# The Pawn Controller
+
+*   Endorsements [50](https://www.nexusmods.com/Core/Libs/Common/Widgets/ModEndorsersPopUp?gameId=6234&modId=1223 "See who endorsed this mod")  
+*   Unique DLs 4,522  
+*   Total DLs 6,415  
+*   Total views 16,243  
+*   Version 2.2.0  
+
+*    Download: 
+
+4 items
+
+*   [![Image 32](https://staticdelivery.nexusmods.com/mods/6234/images/thumbnails/1223/1223-1791643134-785077186.png)](https://www.nexusmods.com/dragonsdogma2/mods/1223#)
+*   [![Image 33](https://staticdelivery.nexusmods.com/mods/6234/images/thumbnails/1223/1223-1791646604-379251279.jpg)](https://www.nexusmods.com/dragonsdogma2/mods/1223#)
+*   [![Image 34](https://staticdelivery.nexusmods.com/mods/6234/images/thumbnails/1223/1223-1791643169-1851162672.jpg)](https://www.nexusmods.com/dragonsdogma2/mods/1223#)
+*   [![Image 35](https://staticdelivery.nexusmods.com/mods/6234/images/thumbnails/1223/1223-1791643173-317102655.jpg)](https://www.nexusmods.com/dragonsdogma2/mods/1223#)
+
+## File information
+
+### Last updated
+
+16 October 2026, 8:11PM
+
+### Original upload
+
+29 October 2025, 3:47PM
+
+### Created by
+
+ Evo 
+
+### Uploaded by
+
+[evoe](https://www.nexusmods.com/dragonsdogma2/users/59460716)
+
+### Virus scan
+
+ Safe to use 
+
+## Tags for this mod
+
+*   [Gameplay](https://www.nexusmods.com/games/dragonsdogma2/mods/?tags_yes[]=1032&tag=Gameplay)
+*   [Utilities for Players](https://www.nexusmods.com/games/dragonsdogma2/mods/?tags_yes[]=1081&tag=Utilities+for+Players)
+
+[Tag this mod](https://www.nexusmods.com/Core/Libs/Common/Widgets/ModTaggingPopUp?mod_id=1223&game_id=6234)
+
+*   [Description](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=description)
+*   [Files 2](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=files)
+*   [Images 4](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=images)
+*   [Videos 0](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=videos)
+*   [Posts 65](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)
+*   [Bugs 0](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=bugs)
+*   [Logs](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=logs)
+*   [Stats](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=stats)
+
+Current section
+
+*   [**Viewing:**Description](https://www.nexusmods.com/dragonsdogma2/mods/1223#)
+    *   [Description](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=description)
+    *   [Files 2](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=files)
+    *   [Images 4](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=images)
+    *   [Videos 0](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=videos)
+    *   [Posts 65](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=posts)
+    *   [Bugs 0](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=bugs)
+    *   [Logs](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=logs)
+    *   [Stats](https://www.nexusmods.com/dragonsdogma2/mods/1223?tab=stats)
+
+## About this mod
+
+NEW: Modify appraisal rolls on gear. Control your main and hired pawns: special skills, appearance, vocation, rank, level, skills, augments, equipment + enhancement, personality, specialization, voice, chatter and MUCH MORE!
+
+*   [Share * [](https://www.nexusmods.com/dragonsdogma2/mods/1223) * [](https://www.nexusmods.com/dragonsdogma2/mods/1223) * [](https://www.nexusmods.com/dragonsdogma2/mods/1223) * [](https://www.nexusmods.com/dragonsdogma2/mods/1223) * [](https://www.nexusmods.com/dragonsdogma2/mods/1223) * [](https://www.nexusmods.com/dragonsdogma2/mods/1223) * [](https://www.nexusmods.com/dragonsdogma2/mods/1223) * [](https://www.nexusmods.com/dragonsdogma2/mods/1223)](https://www.nexusmods.com/dragonsdogma2/mods/1223)
+
+ Requirements 
+
+### Nexus requirements
+
+| Mod name | Notes |
+| --- | --- |
+| [REFramework](https://www.nexusmods.com/dragonsdogma2/mods/8) |  |
+
+ Permissions and credits 
+
+### Credits and distribution permission
+
+*   Other user's assets All the assets in this file belong to the author, or are from free-to-use modder's resources
+*   Upload permission You are not allowed to upload this file to other sites under any circumstances
+*   Modification permission You must get permission from me before you are allowed to modify my files to improve it
+*   Conversion permission You are not allowed to convert this file to work on other games under any circumstances
+*   Asset use permission You must get permission from me before you are allowed to use any of the assets in this file
+*   Asset use permission in mods/files that are being sold You are not allowed to use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms
+*   Asset use permission in mods/files that earn donation points You are not allowed to earn Donation Points for your mods if they use my assets
+
+### Author notes
+
+This author has not provided any additional notes regarding file permissions
+
+### File credits
+
+This author has not credited anyone else in this file
+
+### Donation Points system
+
+Please [log in](https://users.nexusmods.com/auth/sign_in?redirect_url=https%3A%2F%2Fwww.nexusmods.com%2Fdragonsdogma2%2Fmods%2F1223) to find out whether this mod is receiving Donation Points
+
+ Changelogs 
+
+*   ### Version 2.2.0
+
+    *   - New: support for party size mods (More Pawns and similar), extra hired pawns get their own slots automatically
+    *   - New: "Allow hired pawns to level from EXP" (Options + Debug), hired pawns level up from the EXP they earn and the status screen shows their EXP
+    *   - New: DLC appraisal roll editor, set physical, magick, knockdown, weight and the bonus on appraised gear, kept inside the game's own roll limits for that item (pawns and Arisen gear), with Best roll and Original roll
+    *   - New: "No skill (empty slot)" option to clear a skill slot
+    *   - New: "Also use this name as the moniker", the name some menus and the party list show
+    *   - New: Reset and Restore core skills buttons
+    *   - New: Validate Pawn flags appraisal stats and bonuses a real drop can't roll
+    *   - Fixed: Silent, Less and Rare chatter didn't stop pawns talking
+    *   - Fixed: hired pawns that drowned, died or were dismissed lost their settings, they now come back when the same pawn is hired again
+    *   - Fixed: restoring gear now also puts back the original appraisal roll
+    *   - Fixed: a rare error when a pawn appeared a frame before its character finished loading
+
+*   ### Version 2.1.1
+
+    *   2.1.1
+    *   - Fixed: pawns turning invisible (respawn option, loading race, and changes now run on the game thread)
+    *   - Fixed: gear changes now show immediately, no pause or reload needed (weapons, shields and armour)
+    *   - Fixed: "Show items for all vocations" filter, unticked now really filters by vocation
+    *   - Fixed: specialization not applying, instant revive not reviving
+    *   - Fixed: respawn option now revives the pawn when their death timer ends instead of losing them
+    *   - Fixed: infinite carry weight now also shows Light in the menu
+    *   - Fixed: removing skill or augment overrides puts the pawn's original skills back exactly, even after several changes, and picking one that's already in another slot never leaves duplicates
+    *   - Fixed: restoring original skills and augments now also clears slots that were empty to begin with
+    *   - Fixed: older saved originals now fill in the newer skill and augment slots
+    *   - New: all 6 weapon skill slots and the 7th augment slot, with an extra augment slot unlock
+    *   - New: core skills (vocation skills like Kite Shot), carried by presets
+    *   - New: "Apply skills as the upgraded variant"
+    *   - New: vocation rank filter for skills, with Master and DLC skills labelled
+    *   - New: "Keep augments when changing vocation"
+    *   - New: hired pawns can be set to any level, up or down
+    *   - New: "Remove all dropped items" (Misc > Arisen QoL + Testing)
+    *   - New: Validate Pawn also flags skills above the pawn's rank and special skills on mantles
+    *   - New: first start guide and a "How to use" section
+    *   - New: yellow highlight on anything changed from its default, and the original value next to every option
+    *   - Changed: presets now save only the options you set in the mod, Copy from does the same, Import/Export copies a whole pawn
+    *   - Changed: "Enable Control" renamed to "Edit this pawn"
+    *   - Changed: special skills can no longer be set on mantles (the game ignores them)
+
+*   ### Version 2.1.0
+
+    *   2.1.0 Changes and additions:
+    *   - DLC special skills editor: up to four skills per weapon and armour piece, filtered to what can roll on the item, with warnings for anything a real drop couldn't have
+    *   - Validate Pawn button (QoL + Testing): runs the game's own upload check on any pawn
+    *   - Arisen: enhance, Dragonforge and edit special skills on your own gear
+    *   - Main pawn uploads are noted in the REFramework log with the server's answer
+
+*   ### Version 1.5.4
+
+    *   Updated for version 4.0 and adds the new specialisations.
+
+ Donations 
+
+### Straight donations accepted
+
+*   [Donate](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=59460716)
+
+ Collections containing this mod 
+
+**The Pawn Controller**  
+Preview build 2.2.0  
+Formerly Hired Pawn Equipment Override  
+  
+  
+Your new hire turns up in rags, in the wrong vocation, telling you wolves hunt in packs for the fortieth time? Open the menu and fix all of it.  
+  
+Full control over all your pawns, from their gear, vocation, skills, personality, voice, knowledge, even their face.  
+  
+  
+────────────────────  
+  
+  
+**This is a preview**  
+  
+A lot has been added since the last version. Most options have been tested but it's impossible to test for every situation, so please be careful when using the mod, make backups and please report any issues you find.  
+  
+If you find any issues or crashes when applying options, please share the REFramework log (re2_framework_log.txt in your game folder).  
+  
+
+> Back up your saves first. Some changes are permanent and get written to your save. The mod records each pawn's original values so you can revert any options, but backing up your save is still highly advised.
+
+  
+  
+────────────────────  
+  
+  
+**Hired Pawns**  
+Settings stick to the pawn, not the slot. Hire someone new and they start with a clean slate, hire the same pawn again (or summon them back after they drown) and their settings come back.  
+Using a party size mod like More Pawns? Extra hired pawns get their own slots automatically.  
+  
+**Equipment**  
+Every slot has its own searchable dropdown covering every piece of gear in the game, now updated to pull straight from the game.
+
+Set the enhancement level and Dragonforge any of the pawn's equipment.
+
+Each slot has 'Restore' buttons that shows the original item.
+
+Want a Warrior in a Mage hat? Enable 'Ignore vocation restrictions for equipment overrides' in Options + Debug.
+
+  
+  
+
+**New in 2.1**: DLC special skills. Pick up to four for any weapon or armour piece (except mantles).
+
+Keep 'Only show skills that can roll on the item' ticked and the list filters to what CAN roll on a drop.
+
+**New in 2.2**: edit the appraisal roll on DLC gear (physical, magick, knockdown, weight and the bonus), always kept within what a real drop of that item could roll.
+
+Equipment changes show on the pawn immediately, no pause or reload needed.
+
+Note: Hired pawns don't keep gear that gets replaced, 'Restore' restores the original item.  
+  
+**Vocation + Skills**  
+Change their vocation, vocation rank, level, all 6 weapon skills, core skills and augments, including the 7th book slot.
+
+Set their level, reset them to level 1 or put them back to their original level.
+
+Hired pawns can be set to any level, up or down.
+
+'Allow hired pawns to level from EXP' (Options + Debug) lets hired pawns level up as you play, just like your main pawn.
+
+'Apply skills as the upgraded variant' gives skills their upgraded form, like Compass Slash becoming Full Moon Slash.
+
+Skills above the pawn's vocation rank are hidden unless you want them.
+
+Master skills and DLC skills can now be applied and show as (Master) or (DLC)/(DLC Reward).
+
+'Keep augments when changing vocation' transfers a pawn's augments when changing vocation.
+
+'No skill' empties a skill slot, and core skills can be reset or restored to what the pawn came with.
+
+By default you only see skills and augments the pawn has already learned, there is a toggle to show everything.  
+  
+**Name, Personality + Voice**  
+Rename pawns and their moniker (the name some menus show), change their personality, specializations or voices.
+
+Every option shows the pawn's original value next to it.
+
+**Note: Make sure to save and reload after changing voice or personality for settings to apply.**  
+  
+**Behaviour**  
+Set chatter to Normal, Less, Rare or Silent to make them finally shut up!
+
+Make them immune to dragonsplague, cure existing progress, or if you're feeling extra evil, infect them to a chosen stage.  
+  
+**Knowledge**  
+Change any pawn's knowledge of quest guidance, route directions, shortcuts and gimmicks like chests, levers and doors.
+
+Override mode changes what they know without touching your save.
+
+Permanent mode changes the knowledge in the save itself, unlock everything, wipe everything, or pick entries one by one.  
+  
+**Appearance**  
+Export a look to a file and import it onto another pawn. Face, body, hair, makeup, the lot. Works pawn to pawn and Arisen to pawn.
+
+**Note: Make sure to save and reload after importing for all settings to correctly apply.**  
+  
+**Presets + Import/Export**  
+Presets save the options you've changed in the mod (a voice, a helmet, level 25) so you can apply them to any new pawn in one click. Copy settings straight from another pawn in your party.
+
+Export a full character file and pick which sections come across on import.
+
+Transfer the appearance from pawn to pawn, like the look of a hired pawn? You can now replicate it!  
+**Note: Make sure to save and reload after importing for all settings to correctly apply.**  
+  
+**QoL + Testing Options**  
+Some debug, QoL options have been added:  
+Godmode, cannot die, instant revive, infinite stamina, infinite carry weight (the menu shows Light too), always on lantern,  
+damage multipliers, size multipliers, heal, teleport to you, kill.  
+  
+"Respawn pawn shortly after death" stops a hire from going back to the Rift, they will be revived when their death timer runs out.  
+  
+"Validate Pawn" runs the game's own upload check on a pawn and tells you if anything would fail, such as gear their vocation can't use, flags any special skills or appraisal rolls a real drop couldn't have, skills above the pawn's vocation rank.  
+  
+  
+────────────────────  
+  
+  
+**Main Pawn**  
+Supports the same options as hired pawns including full import/export.  
+Be careful when applying options to the main pawn, some changes are permanent.  
+Every time you rest, the REFramework log notes your pawn's upload and whether the server accepted it.  
+  
+**Your Arisen**  
+The QoL section works on you too. Export your own look or import one from a file.  
+New in 2.1: enhance or Dragonforge your own gear and edit its special skills. Enhancing puts on an enhanced copy and keeps your original in the bag, Restore puts it back on.  
+  
+  
+**Misc**  
+An item spawner with a filter which pulls directly from the game.  
+"Remove all dropped items" clears everything you've left lying on the ground. Move or teleport away from it first.  
+  
+  
+────────────────────  
+  
+  
+**Install**  
+Needs REFramework. Install with Fluffy Mod Manager or drop the reframework folder into your game folder.  
+In-game, open the REFramework menu (Insert by default), go to Script Generated UI, then The Pawn Controller.  
+A short first start guide opens the first time, and you can reopen it from 'How to use'.  
+**Anything shown in yellow has been changed from its default.**  
+  
+  
+Built on the VEX-Framework
+
+  
+
+![Image 36: Vortex](https://www.nexusmods.com/assets/images/footer/Vortex.svg)VORTEX
+
+The powerful open-source mod manager from Nexus Mods.
+
+Learn more
+
+### Nexus Mods
+
+*   [News](https://www.nexusmods.com/dragonsdogma2/news)
+*   [Statistics](https://www.nexusmods.com/dragonsdogma2/about/stats)
+*   [Careers](https://www.nexusmods.com/about/careers)
+*   [About us](https://www.nexusmods.com/about)
+*   [Premium features](https://next.nexusmods.com/premium)
+
+### Discover
+
+*   [All games](https://www.nexusmods.com/games)
+*   [All mods](https://www.nexusmods.com/games/dragonsdogma2/mods)
+*   [New mods](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=createdAt&timeRange=1)
+*   [Popular mods](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=endorsements&timeRange=0)
+*   [Trending mods](https://www.nexusmods.com/games/dragonsdogma2/mods?sort=endorsements&timeRange=7)
+*   [All collections](https://www.nexusmods.com/collections)
+*   [All images](https://www.nexusmods.com/games/dragonsdogma2/images)
+
+### Support
+
+*   [Help](https://help.nexusmods.com/)
+*   [Wiki](https://wiki.nexusmods.com/index.php/Main_Page)
+*   [API](https://api-docs.nexusmods.com/)
+*   [Give feedback](https://forums.nexusmods.com/forum/9063-suggestion-board)
+*   [Report a bug](https://forums.nexusmods.com/index.php?/forum/8394-website-bug-report/)
+*   [Unban requests](https://help.nexusmods.com/article/33-what-can-i-do-if-my-account-has-been-banned)
+*   [DMCA](https://www.cognitoforms.com/NexusMods/NexusModsDMCAForm)
+*   [Manage cookie settings](https://www.nexusmods.com/dragonsdogma2/mods/1223#)
+
+### Community
+
+*   [Forums](https://forums.nexusmods.com/)
+*   [Discord](https://discord.gg/nexusmods)
+*   [Support authors](https://www.patreon.com/nexusmods)
+*   [Contact us](https://help.nexusmods.com/article/125-contact-us)
+
+### Support Nexus Mods
+
+*   [Go premium](https://users.nexusmods.com/account/billing/premium)
+
+### Network Stats
+
+*   #### Members
+
+79,613,131 
+*   #### Mods
+
+962,411 
+*   #### Kudos given
+
+4,443,017 
+*   #### Page served in
+
+0.183s v2026.1020.1042 | UK 3 
+
+[](https://www.nexusmods.com/dragonsdogma2 "Nexus Mods")
+
+[![Image 37: Discord](https://www.nexusmods.com/assets/images/footer/Discord.svg)](https://discord.gg/nexusmods "Join us on Discord")[![Image 38: Twitter](https://www.nexusmods.com/assets/images/footer/Twitter.svg)](https://twitter.com/nexussites "Follow us on Twitter")[![Image 39: TikTok](https://www.nexusmods.com/assets/images/footer/TikTok.svg)](https://www.tiktok.com/@nexusmodsofficial "Follow us on TikTok")[![Image 40: Twitch](https://www.nexusmods.com/assets/images/footer/Twitch.svg)](https://www.twitch.tv/nexusmodsofficial "Follow us on Twitch")[![Image 41: Youtube](https://www.nexusmods.com/assets/images/footer/Youtube.svg)](https://www.youtube.com/@NexusModsOfficial "Follow us on Youtube")[![Image 42: Instagram](https://www.nexusmods.com/assets/images/footer/Instagram.svg)](https://www.instagram.com/nexusmodsofficial "Follow us on Instagram")
+
+Copyright © 2026 Black Tree Gaming Ltd. All rights reserved.
+
+[Terms of Service](https://help.nexusmods.com/article/18-terms-of-service) | [Privacy Policy](https://help.nexusmods.com/article/20-privacy-policy)
+
+![Image 43: iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1477556550&iiqidtype=2&iiqpcid=e7e2116e-9a31-ad4f-a0ad-a9c899ca1230&iiqpciddate=1792493751684&tsrnd=893_1792493751690&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22155%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22155%5C%22%2C%20%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%2224%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22155.0.8059.84%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22155.0.8059.84%5C%22%2C%20%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%2224.0.0.0%5C%22%22%7D&vrref=https%3A%2F%2Fwww.nexusmods.com%2Fdragonsdogma2%2Fmods%2F1223&gdpr_consent=undefined&us_privacy=1---&gpc=undefined&gdpr=0)![Image 44: iiq_pixel](https://sync.intentiq.com/profiles_engine/ProfilesEngineServlet?at=20&mi=10&secure=1&dpi=1477556550&iiqidtype=2&iiqpcid=e7e2116e-9a31-ad4f-a0ad-a9c899ca1230&iiqpciddate=1792493751684&tsrnd=298_1792493751831&jsver=6.256&testPercentage=95&testGroup=A&uh=%7B%220%22%3A%22%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22155%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22155%5C%22%2C%20%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%2224%5C%22%22%2C%221%22%3A%22%3F0%22%2C%222%22%3A%22%5C%22Linux%5C%22%22%2C%223%22%3A%22%5C%22x86%5C%22%22%2C%224%22%3A%22%5C%2264%5C%22%22%2C%227%22%3A%22%3F0%22%2C%228%22%3A%22%5C%22Google%20Chrome%5C%22%3Bv%3D%5C%22155.0.8059.84%5C%22%2C%20%5C%22Chromium%5C%22%3Bv%3D%5C%22155.0.8059.84%5C%22%2C%20%5C%22Not(A%3ABrand%5C%22%3Bv%3D%5C%2224.0.0.0%5C%22%22%7D&vrref=https%3A%2F%2Fwww.nexusmods.com%2Fdragonsdogma2%2Fmods%2F1223&gdpr_consent=undefined&us_privacy=1---&gpc=undefined&gdpr=0)
+
+[Video 3](https://www.nexusmods.com/dragonsdogma2/mods/1223)
+
+[Video 4](https://www.nexusmods.com/dragonsdogma2/mods/1223)
+
+![Image 45](https://ids.ad.gt/api/v1/halo_match?id=AU1D-0100-001792493754-EG8V1GN2-FTSY&halo_id=060ixfhju6a659c979a9a66666666666666uooswi0e0y6i626e6e000000000000)![Image 46](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792493754-EG8V1GN2-FTSY)![Image 47](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001792493754-EG8V1GN2-FTSY&adnxs_id=$UID&gdpr=0)![Image 48](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001792493754-EG8V1GN2-FTSY%26auid%3DAU1D-0100-001792493754-EG8V1GN2-FTSY&gdpr=0)![Image 49](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001792493754-EG8V1GN2-FTSY&gdpr=0)![Image 50](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001792493754-EG8V1GN2-FTSY&gdpr=0)![Image 51](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001792493754-EG8V1GN2-FTSY&gdpr=0)![Image 52](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001792493754-EG8V1GN2-FTSY&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001792493754-EG8V1GN2-FTSY%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 53](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MjQ5Mzc1NC1FRzhWMUdOMi1GVFNZ&id=AU1D-0100-001792493754-EG8V1GN2-FTSY&gdpr=0)![Image 54](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001792493754-EG8V1GN2-FTSY)![Image 55](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001792493754-EG8V1GN2-FTSY&uid=[UID]&gdpr=0)![Image 56](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001792493754-EG8V1GN2-FTSY%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)

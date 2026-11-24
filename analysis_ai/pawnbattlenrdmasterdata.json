@@ -1,0 +1,163 @@
+[
+  {
+    "_class": "app.PawnBattleNRDMasterData",
+    "_index": 7,
+    "fields": {
+      "_NRDMaster09Data": {
+        "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData",
+        "_index": 6,
+        "fields": {
+          "_TestHp": {
+            "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData",
+            "_index": 5,
+            "fields": {
+              "_IsApplyAllPawn": {
+                "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                "_index": true,
+                "fields": {
+                  "_HpSetType": {
+                    "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                    "_index": 1,
+                    "fields": {
+                      "_HpSetType": {
+                        "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                        "_index": 1,
+                        "fields": {
+                          "_HpSetType": {
+                            "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                            "_index": 1,
+                            "fields": {
+                              "_HpSetType": {
+                                "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                                "_index": 1,
+                                "fields": {
+                                  "_HpSetType": {
+                                    "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                                    "_index": 1,
+                                    "fields": {
+                                      "_HpSetType": "<max-depth>",
+                                      "_DirectHp": "<max-depth>",
+                                      "_HpRate": "<max-depth>"
+                                    }
+                                  },
+                                  "_DirectHp": 1000.0,
+                                  "_HpRate": 1.0
+                                }
+                              },
+                              "_DirectHp": 1000.0,
+                              "_HpRate": 1.0
+                            }
+                          },
+                          "_DirectHp": 1000.0,
+                          "_HpRate": 1.0
+                        }
+                      },
+                      "_DirectHp": 1000.0,
+                      "_HpRate": 1.0
+                    }
+                  },
+                  "_DirectHp": 1000.0,
+                  "_HpRate": 1.0
+                }
+              },
+              "_HpSetAllPawn": {
+                "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                "_index": 1,
+                "fields": {
+                  "_HpSetType": {
+                    "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                    "_index": 1,
+                    "fields": {
+                      "_HpSetType": {
+                        "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                        "_index": 1,
+                        "fields": {
+                          "_HpSetType": {
+                            "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                            "_index": 1,
+                            "fields": {
+                              "_HpSetType": {
+                                "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                                "_index": 1,
+                                "fields": {
+                                  "_HpSetType": {
+                                    "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                                    "_index": 1,
+                                    "fields": {
+                                      "_HpSetType": "<max-depth>",
+                                      "_DirectHp": "<max-depth>",
+                                      "_HpRate": "<max-depth>"
+                                    }
+                                  },
+                                  "_DirectHp": 1000.0,
+                                  "_HpRate": 1.0
+                                }
+                              },
+                              "_DirectHp": 1000.0,
+                              "_HpRate": 1.0
+                            }
+                          },
+                          "_DirectHp": 1000.0,
+                          "_HpRate": 1.0
+                        }
+                      },
+                      "_DirectHp": 1000.0,
+                      "_HpRate": 1.0
+                    }
+                  },
+                  "_DirectHp": 1000.0,
+                  "_HpRate": 1.0
+                }
+              },
+              "_HpSetIndividual": [
+                {
+                  "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                  "_index": 2,
+                  "fields": {
+                    "_HpSetType": 0,
+                    "_DirectHp": 1000.0,
+                    "_HpRate": 1.0
+                  }
+                },
+                {
+                  "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                  "_index": 3,
+                  "fields": {
+                    "_HpSetType": 0,
+                    "_DirectHp": 1000.0,
+                    "_HpRate": 1.0
+                  }
+                },
+                {
+                  "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+                  "_index": 4,
+                  "fields": {
+                    "_HpSetType": 0,
+                    "_DirectHp": 1000.0,
+                    "_HpRate": 1.0
+                  }
+                }
+              ]
+            }
+          },
+          "_DamageRate": 0.8500000238418579,
+          "_AttackRate": 0.800000011920929,
+          "_AttackMagicRate": 0.6499999761581421,
+          "_ReactionLeanRate": 0.0949999988079071,
+          "_ReactionBlownRate": 0.029999999329447746,
+          "_ValidObservePawnNum": {
+            "_class": "app.PawnBattleNRDMasterData.NRDMaster09BattleData.TestData.HpSetData",
+            "_index": 3,
+            "fields": {
+              "_HpSetType": 0,
+              "_DirectHp": 1000.0,
+              "_HpRate": 1.0
+            }
+          },
+          "_OvserveTime": 8.0,
+          "_ObserveInterval": 0.0
+        }
+      }
+    }
+  }
+]
