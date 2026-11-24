@@ -24,15 +24,15 @@ from urllib.parse import unquote, urlparse
 
 
 ROOT = Path(__file__).resolve().parent
-WORKSPACE = ROOT.parent
+WORKSPACE = ROOT.parents[1]
 GAME_ROOT = Path(os.environ.get(
     "DD2_GAME_DIR",
     r"C:\Program Files (x86)\Steam\steamapps\common\Dragons Dogma 2",
 ))
 CONFIG_PATH = GAME_ROOT / "reframework" / "data" / "ThePawnController" / "config.json"
 ITEM_DATA_PATH = CONFIG_PATH.parent / "itemData.json"
-SKILLS_PATH = WORKSPACE / "dd2_skill_catalog" / "skills.json"
-EQUIPMENT_PATH = WORKSPACE / "dd2_equipment_catalog" / "catalog.json"
+SKILLS_PATH = WORKSPACE / "catalogs" / "dd2_skill_catalog" / "skills.json"
+EQUIPMENT_PATH = WORKSPACE / "catalogs" / "dd2_equipment_catalog" / "catalog.json"
 PROFILE_DIR = ROOT / "profiles"
 TRASH_DIR = ROOT / "trash"
 BACKUP_DIR = WORKSPACE / "game_config_backups"

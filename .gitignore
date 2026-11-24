@@ -16,14 +16,14 @@ downloads/
 extracted_dd2/
 diagnostics/
 .dd2_install_staging/
-dd2_character_manager/profiles/
-dd2_character_manager/trash/
-dd2_character_manager/preview*.png
+apps/dd2_character_manager/profiles/
+apps/dd2_character_manager/trash/
+apps/dd2_character_manager/preview*.png
 
 # 构建产物
-DD2_Pawn_Studio/build/
-DD2_Pawn_Studio/dist/
-DD2_Pawn_Studio/backups/
-DD2_Pawn_Studio/tmp_test/
-DD2_Pawn_Studio/smoke_config.json
-Modding/**/*.png
+apps/DD2_Pawn_Studio/build/
+apps/DD2_Pawn_Studio/dist/
+apps/DD2_Pawn_Studio/backups/
+apps/DD2_Pawn_Studio/tmp_test/
+apps/DD2_Pawn_Studio/smoke_config.json
+research/Modding/**/*.png

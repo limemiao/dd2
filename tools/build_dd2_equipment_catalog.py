@@ -578,7 +578,7 @@ def main() -> None:
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path(__file__).resolve().parent.parent / "dd2_equipment_catalog",
+        default=Path(__file__).resolve().parent.parent / "catalogs" / "dd2_equipment_catalog",
     )
     parser.add_argument(
         "--force-icons",

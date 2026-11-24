@@ -13,7 +13,7 @@
 ## 启动
 
 ```powershell
-python dd2_character_manager\app.py
+python apps\dd2_character_manager\app.py
 ```
 
 然后打开：
